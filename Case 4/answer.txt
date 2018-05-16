@@ -1,0 +1,102 @@
+Oppgave: 	* Lage og hoste oppdatert programguide
+			* Gi en god brukeropplevelse
+
+Spørsmål: 
+
+	- Hva tror du at brukeren forventer?
+		* Responsiv brukergrensesnitt:	- delay på oppstart tolereres
+										- minimalt delay på interaktive valg
+										- delay og lav kvalitet ved umiddelbar lasting av video tolereres
+										
+		* God oversikt / design:		- Valg av farger på gui dark/light mode
+										- enkelt fargetema
+										- stor/lesbar skrift
+										- tydelige knapper
+										- tydelig oversikt over tilbud/kanaler
+										- Difi: universell utforming
+		
+		* Informasjon:					- personvern: cookies/hva deles av brukerdata og hvorfor/hensikt
+										- info. om tilbud/kanaler/video
+										- relevant og rask søkefunksjon
+		
+		* Input:						- tradisjonell fjerkontroll
+										- smart-telefon
+										- mus og tastatur
+										- spillkonsoll kontroller (xbox, steelseries, logitech, ...)
+										
+		* Output:						- blankTV fungerer med skjerm og lydanlegg
+		
+		* Annet:						- Kunne laste ned video i forkant (dårlig nett, smidig opplevelse, ...)
+										- Tutorials:	* Hva finnes/er tilgjengelig
+														* å bli en power user
+										- Støtte for handikapp: * Skriftstørrelse
+																* tale/audio hjelp
+																* blinde-farger
+																* blinde-tastatur støtte
+		
+		
+		
+		
+		
+	- Hvordan ville du gått fram for finne den nødvendige informasjonen?
+		* Definsjon						- Hva er nødvendig informasjon?
+										- Hva er viktigst?
+										- Hva er mindre viktige men kule features?
+										- Hva bør ikke prioriteres?
+										- Hva kan ikke gjøres?
+										- Temporale grenser for prosjektet? (hva kan vi få til på den tiden vi har?)
+		
+		* Brukere:						- Hvem er typiske brukere?
+										- Typisk brukerutstyr?
+						
+		* Tverrfaglig team:				- Ønsker designer
+										- Dele opp teamet på interesseområder
+										- Kartlegge evner/kunnskap
+										- Hva kan vi få til med de ressursene vi har?
+										- scrum / smidig (effektiv og oversiktlig arbeidsmodell)
+			
+		
+		
+		
+		
+	- Hvilke tekniske problemstillinger ser du kan påvirke arbeidet?
+		* User agreements:				- kan vi gjøre det vi vil med tjenestene tilgjengelige?
+		
+		* Teknologi:					- Tilegne seg kunnskap om spesifik teknologi brukt.
+										- Velge teknologi (hvordan skal vi gjøre dette?)
+										- Dekker teknologi brukt alle behov?
+										- Velge ofte-brukt teknologi for lettere søking om info. og debugging problemer
+
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										

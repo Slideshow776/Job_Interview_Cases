@@ -1,0 +1,4511 @@
+{
+    "1": {
+        "sku": "0F48AE", 
+        "category": "Recliner", 
+        "name": "Stupendous Recliner", 
+        "series": "Stupendous", 
+        "price": 4682, 
+        "currency": "NOK", 
+        "transaction_id": 18616238
+    }, 
+    "2": {
+        "sku": "D8C525", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 635, 
+        "currency": "NOK", 
+        "transaction_id": 19823065
+    }, 
+    "3": {
+        "sku": "7FD20C", 
+        "category": "Lamp", 
+        "name": "Neat Lamp", 
+        "series": "Neat", 
+        "price": 4850, 
+        "currency": "NOK", 
+        "transaction_id": 16808751
+    }, 
+    "4": {
+        "sku": "393E65", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1041, 
+        "currency": "NOK", 
+        "transaction_id": 19138493
+    }, 
+    "5": {
+        "sku": "95761D", 
+        "category": "Sofa", 
+        "name": "Terrific Sofa", 
+        "series": "Terrific", 
+        "price": 4339, 
+        "currency": "NOK", 
+        "transaction_id": 18655067
+    }, 
+    "6": {
+        "sku": "CB76C2", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 1115, 
+        "currency": "NOK", 
+        "transaction_id": 18841458
+    }, 
+    "7": {
+        "sku": "E23461", 
+        "category": "Sofa", 
+        "name": "Ace Sofa", 
+        "series": "Ace", 
+        "price": 754, 
+        "currency": "NOK", 
+        "transaction_id": 16260093
+    }, 
+    "8": {
+        "sku": "C7473A", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4404, 
+        "currency": "NOK", 
+        "transaction_id": 16463700
+    }, 
+    "9": {
+        "sku": "E86F6E", 
+        "category": "Recliner", 
+        "name": "Striking Recliner", 
+        "series": "Striking", 
+        "price": 3502, 
+        "currency": "NOK", 
+        "transaction_id": 18515959
+    }, 
+    "10": {
+        "sku": "11BC44", 
+        "category": "Desk", 
+        "name": "Ace Desk", 
+        "series": "Ace", 
+        "price": 2444, 
+        "currency": "NOK", 
+        "transaction_id": 19952624
+    }, 
+    "11": {
+        "sku": "393E65", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1041, 
+        "currency": "NOK", 
+        "transaction_id": 19138493
+    }, 
+    "12": {
+        "sku": "0F48AE", 
+        "category": "Recliner", 
+        "name": "Stupendous Recliner", 
+        "series": "Stupendous", 
+        "price": 4682, 
+        "currency": "NOK", 
+        "transaction_id": 18616238
+    }, 
+    "13": {
+        "sku": "8A301C", 
+        "category": "Table", 
+        "name": "Praiseworthy Table", 
+        "series": "Praiseworthy", 
+        "price": 2966, 
+        "currency": "NOK", 
+        "transaction_id": 19405485
+    }, 
+    "14": {
+        "sku": "EBE146", 
+        "category": "Lamp", 
+        "name": "Supreme Lamp", 
+        "series": "Supreme", 
+        "price": 236, 
+        "currency": "NOK", 
+        "transaction_id": 19482273
+    }, 
+    "15": {
+        "sku": "3B914E", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 4215, 
+        "currency": "NOK", 
+        "transaction_id": 18058752
+    }, 
+    "16": {
+        "sku": "F3ED81", 
+        "category": "Sofa", 
+        "name": "Geometric Sofa", 
+        "series": "Geometric", 
+        "price": 3098, 
+        "currency": "NOK", 
+        "transaction_id": 17681372
+    }, 
+    "17": {
+        "sku": "D26301", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 566, 
+        "currency": "NOK", 
+        "transaction_id": 15908404
+    }, 
+    "18": {
+        "sku": "EBE146", 
+        "category": "Lamp", 
+        "name": "Supreme Lamp", 
+        "series": "Supreme", 
+        "price": 236, 
+        "currency": "NOK", 
+        "transaction_id": 19482273
+    }, 
+    "19": {
+        "sku": "35EEDC", 
+        "category": "Lamp", 
+        "name": "Ace Lamp", 
+        "series": "Ace", 
+        "price": 2863, 
+        "currency": "NOK", 
+        "transaction_id": 17115126
+    }, 
+    "20": {
+        "sku": "E23461", 
+        "category": "Sofa", 
+        "name": "Ace Sofa", 
+        "series": "Ace", 
+        "price": 754, 
+        "currency": "NOK", 
+        "transaction_id": 16260093
+    }, 
+    "21": {
+        "sku": "F863D2", 
+        "category": "Sofa", 
+        "name": "Ace Sofa", 
+        "series": "Ace", 
+        "price": 3460, 
+        "currency": "NOK", 
+        "transaction_id": 15661025
+    }, 
+    "22": {
+        "sku": "39F882", 
+        "category": "Chair", 
+        "name": "Terrific Chair", 
+        "series": "Terrific", 
+        "price": 3564, 
+        "currency": "NOK", 
+        "transaction_id": 17194948
+    }, 
+    "23": {
+        "sku": "626D60", 
+        "category": "Desk", 
+        "name": "Praiseworthy Desk", 
+        "series": "Praiseworthy", 
+        "price": 3190, 
+        "currency": "NOK", 
+        "transaction_id": 17993191
+    }, 
+    "24": {
+        "sku": "3324F5", 
+        "category": "Lamp", 
+        "name": "Stupendous Lamp", 
+        "series": "Stupendous", 
+        "price": 2973, 
+        "currency": "NOK", 
+        "transaction_id": 18224908
+    }, 
+    "25": {
+        "sku": "42A840", 
+        "category": "Desk", 
+        "name": "Posh Desk", 
+        "series": "Posh", 
+        "price": 633, 
+        "currency": "NOK", 
+        "transaction_id": 19330355
+    }, 
+    "26": {
+        "sku": "393E65", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1041, 
+        "currency": "NOK", 
+        "transaction_id": 19138493
+    }, 
+    "27": {
+        "sku": "393E65", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1041, 
+        "currency": "NOK", 
+        "transaction_id": 19138493
+    }, 
+    "28": {
+        "sku": "982AEB", 
+        "category": "Chair", 
+        "name": "Ace Chair", 
+        "series": "Ace", 
+        "price": 2606, 
+        "currency": "NOK", 
+        "transaction_id": 18270047
+    }, 
+    "29": {
+        "sku": "D9833C", 
+        "category": "Lamp", 
+        "name": "Stylish Lamp", 
+        "series": "Stylish", 
+        "price": 3040, 
+        "currency": "NOK", 
+        "transaction_id": 17182315
+    }, 
+    "30": {
+        "sku": "804B22", 
+        "category": "Lamp", 
+        "name": "Epic Lamp", 
+        "series": "Epic", 
+        "price": 1773, 
+        "currency": "NOK", 
+        "transaction_id": 16353248
+    }, 
+    "31": {
+        "sku": "982AEB", 
+        "category": "Chair", 
+        "name": "Ace Chair", 
+        "series": "Ace", 
+        "price": 2606, 
+        "currency": "NOK", 
+        "transaction_id": 18270047
+    }, 
+    "32": {
+        "sku": "3B914E", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 4215, 
+        "currency": "NOK", 
+        "transaction_id": 18058752
+    }, 
+    "33": {
+        "sku": "D4794D", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4153, 
+        "currency": "NOK", 
+        "transaction_id": 19068894
+    }, 
+    "34": {
+        "sku": "393E65", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1041, 
+        "currency": "NOK", 
+        "transaction_id": 19138493
+    }, 
+    "35": {
+        "sku": "3FBDBB", 
+        "category": "Desk", 
+        "name": "Beautiful Desk", 
+        "series": "Beautiful", 
+        "price": 4150, 
+        "currency": "NOK", 
+        "transaction_id": 17141565
+    }, 
+    "36": {
+        "sku": "C7473A", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4404, 
+        "currency": "NOK", 
+        "transaction_id": 16463700
+    }, 
+    "37": {
+        "sku": "06ADB2", 
+        "category": "Recliner", 
+        "name": "Geometric Recliner", 
+        "series": "Geometric", 
+        "price": 1290, 
+        "currency": "NOK", 
+        "transaction_id": 17014687
+    }, 
+    "38": {
+        "sku": "7A63C8", 
+        "category": "Desk", 
+        "name": "Supreme Desk", 
+        "series": "Supreme", 
+        "price": 2025, 
+        "currency": "NOK", 
+        "transaction_id": 19812311
+    }, 
+    "39": {
+        "sku": "F721BD", 
+        "category": "Sofa", 
+        "name": "Posh Sofa", 
+        "series": "Posh", 
+        "price": 4923, 
+        "currency": "NOK", 
+        "transaction_id": 19279310
+    }, 
+    "40": {
+        "sku": "3324F5", 
+        "category": "Lamp", 
+        "name": "Stupendous Lamp", 
+        "series": "Stupendous", 
+        "price": 2973, 
+        "currency": "NOK", 
+        "transaction_id": 18224908
+    }, 
+    "41": {
+        "sku": "06ADB2", 
+        "category": "Recliner", 
+        "name": "Geometric Recliner", 
+        "series": "Geometric", 
+        "price": 1290, 
+        "currency": "NOK", 
+        "transaction_id": 17014687
+    }, 
+    "42": {
+        "sku": "D10324", 
+        "category": "Table", 
+        "name": "Supreme Table", 
+        "series": "Supreme", 
+        "price": 3256, 
+        "currency": "NOK", 
+        "transaction_id": 18922483
+    }, 
+    "43": {
+        "sku": "956B1F", 
+        "category": "Table", 
+        "name": "Exquisite Table", 
+        "series": "Exquisite", 
+        "price": 4431, 
+        "currency": "NOK", 
+        "transaction_id": 19766843
+    }, 
+    "44": {
+        "sku": "0F48AE", 
+        "category": "Recliner", 
+        "name": "Stupendous Recliner", 
+        "series": "Stupendous", 
+        "price": 4682, 
+        "currency": "NOK", 
+        "transaction_id": 18616238
+    }, 
+    "45": {
+        "sku": "83F2DC", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 4122, 
+        "currency": "NOK", 
+        "transaction_id": 17187893
+    }, 
+    "46": {
+        "sku": "AB331E", 
+        "category": "Table", 
+        "name": "Geometric Table", 
+        "series": "Geometric", 
+        "price": 4622, 
+        "currency": "NOK", 
+        "transaction_id": 18771874
+    }, 
+    "47": {
+        "sku": "8C98AF", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 2347, 
+        "currency": "NOK", 
+        "transaction_id": 17260353
+    }, 
+    "48": {
+        "sku": "F42806", 
+        "category": "Recliner", 
+        "name": "Posh Recliner", 
+        "series": "Posh", 
+        "price": 3534, 
+        "currency": "NOK", 
+        "transaction_id": 15521555
+    }, 
+    "49": {
+        "sku": "C6841F", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 2853, 
+        "currency": "NOK", 
+        "transaction_id": 18058756
+    }, 
+    "50": {
+        "sku": "F4B98D", 
+        "category": "Recliner", 
+        "name": "Tiptop Recliner", 
+        "series": "Tiptop", 
+        "price": 2456, 
+        "currency": "NOK", 
+        "transaction_id": 19508748
+    }, 
+    "51": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "52": {
+        "sku": "464728", 
+        "category": "Desk", 
+        "name": "Geometric Desk", 
+        "series": "Geometric", 
+        "price": 4632, 
+        "currency": "NOK", 
+        "transaction_id": 16362541
+    }, 
+    "53": {
+        "sku": "256CEF", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 4138, 
+        "currency": "NOK", 
+        "transaction_id": 16557337
+    }, 
+    "54": {
+        "sku": "481001", 
+        "category": "Desk", 
+        "name": "Geometric Desk", 
+        "series": "Geometric", 
+        "price": 4362, 
+        "currency": "NOK", 
+        "transaction_id": 18392965
+    }, 
+    "55": {
+        "sku": "236471", 
+        "category": "Sofa", 
+        "name": "Exquisite Sofa", 
+        "series": "Exquisite", 
+        "price": 4093, 
+        "currency": "NOK", 
+        "transaction_id": 18441585
+    }, 
+    "56": {
+        "sku": "804B22", 
+        "category": "Lamp", 
+        "name": "Epic Lamp", 
+        "series": "Epic", 
+        "price": 1773, 
+        "currency": "NOK", 
+        "transaction_id": 16353248
+    }, 
+    "57": {
+        "sku": "8FD330", 
+        "category": "Sofa", 
+        "name": "Stupendous Sofa", 
+        "series": "Stupendous", 
+        "price": 1306, 
+        "currency": "NOK", 
+        "transaction_id": 18343164
+    }, 
+    "58": {
+        "sku": "626D60", 
+        "category": "Desk", 
+        "name": "Praiseworthy Desk", 
+        "series": "Praiseworthy", 
+        "price": 3190, 
+        "currency": "NOK", 
+        "transaction_id": 17993191
+    }, 
+    "59": {
+        "sku": "5E5CF2", 
+        "category": "Desk", 
+        "name": "Well-made Desk", 
+        "series": "Well-made", 
+        "price": 48, 
+        "currency": "NOK", 
+        "transaction_id": 15218604
+    }, 
+    "60": {
+        "sku": "4E9212", 
+        "category": "Lamp", 
+        "name": "Posh Lamp", 
+        "series": "Posh", 
+        "price": 1898, 
+        "currency": "NOK", 
+        "transaction_id": 16657720
+    }, 
+    "61": {
+        "sku": "A8B8A2", 
+        "category": "Lamp", 
+        "name": "Slick Lamp", 
+        "series": "Slick", 
+        "price": 3956, 
+        "currency": "NOK", 
+        "transaction_id": 15147791
+    }, 
+    "62": {
+        "sku": "E5D9EA", 
+        "category": "Table", 
+        "name": "Finest Table", 
+        "series": "Finest", 
+        "price": 1024, 
+        "currency": "NOK", 
+        "transaction_id": 19121765
+    }, 
+    "63": {
+        "sku": "A88029", 
+        "category": "Chair", 
+        "name": "Well-made Chair", 
+        "series": "Well-made", 
+        "price": 98, 
+        "currency": "NOK", 
+        "transaction_id": 17176110
+    }, 
+    "64": {
+        "sku": "220E86", 
+        "category": "Desk", 
+        "name": "Brilliant Desk", 
+        "series": "Brilliant", 
+        "price": 1891, 
+        "currency": "NOK", 
+        "transaction_id": 18343919
+    }, 
+    "65": {
+        "sku": "8C98AF", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 2347, 
+        "currency": "NOK", 
+        "transaction_id": 17260353
+    }, 
+    "66": {
+        "sku": "3077F0", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 155, 
+        "currency": "NOK", 
+        "transaction_id": 17031033
+    }, 
+    "67": {
+        "sku": "D8C525", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 635, 
+        "currency": "NOK", 
+        "transaction_id": 19823065
+    }, 
+    "68": {
+        "sku": "AB331E", 
+        "category": "Table", 
+        "name": "Geometric Table", 
+        "series": "Geometric", 
+        "price": 4622, 
+        "currency": "NOK", 
+        "transaction_id": 18771874
+    }, 
+    "69": {
+        "sku": "8F7417", 
+        "category": "Chair", 
+        "name": "Tiptop Chair", 
+        "series": "Tiptop", 
+        "price": 4130, 
+        "currency": "NOK", 
+        "transaction_id": 18649798
+    }, 
+    "70": {
+        "sku": "956B1F", 
+        "category": "Table", 
+        "name": "Exquisite Table", 
+        "series": "Exquisite", 
+        "price": 4431, 
+        "currency": "NOK", 
+        "transaction_id": 19766843
+    }, 
+    "71": {
+        "sku": "3E138C", 
+        "category": "Table", 
+        "name": "Geometric Table", 
+        "series": "Geometric", 
+        "price": 2554, 
+        "currency": "NOK", 
+        "transaction_id": 15021781
+    }, 
+    "72": {
+        "sku": "1F4878", 
+        "category": "Lamp", 
+        "name": "Striking Lamp", 
+        "series": "Striking", 
+        "price": 4920, 
+        "currency": "NOK", 
+        "transaction_id": 18910999
+    }, 
+    "73": {
+        "sku": "CDBE80", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 583, 
+        "currency": "NOK", 
+        "transaction_id": 19515187
+    }, 
+    "74": {
+        "sku": "F3ED81", 
+        "category": "Sofa", 
+        "name": "Geometric Sofa", 
+        "series": "Geometric", 
+        "price": 3098, 
+        "currency": "NOK", 
+        "transaction_id": 17681372
+    }, 
+    "75": {
+        "sku": "CDBE80", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 583, 
+        "currency": "NOK", 
+        "transaction_id": 19515187
+    }, 
+    "76": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "77": {
+        "sku": "3B914E", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 4215, 
+        "currency": "NOK", 
+        "transaction_id": 18058752
+    }, 
+    "78": {
+        "sku": "8FD330", 
+        "category": "Sofa", 
+        "name": "Stupendous Sofa", 
+        "series": "Stupendous", 
+        "price": 1306, 
+        "currency": "NOK", 
+        "transaction_id": 18343164
+    }, 
+    "79": {
+        "sku": "7338F8", 
+        "category": "Lamp", 
+        "name": "Tiptop Lamp", 
+        "series": "Tiptop", 
+        "price": 3052, 
+        "currency": "NOK", 
+        "transaction_id": 19696705
+    }, 
+    "80": {
+        "sku": "3FBDBB", 
+        "category": "Desk", 
+        "name": "Beautiful Desk", 
+        "series": "Beautiful", 
+        "price": 4150, 
+        "currency": "NOK", 
+        "transaction_id": 17141565
+    }, 
+    "81": {
+        "sku": "3077F0", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 155, 
+        "currency": "NOK", 
+        "transaction_id": 17031033
+    }, 
+    "82": {
+        "sku": "F721BD", 
+        "category": "Sofa", 
+        "name": "Posh Sofa", 
+        "series": "Posh", 
+        "price": 4923, 
+        "currency": "NOK", 
+        "transaction_id": 19279310
+    }, 
+    "83": {
+        "sku": "C4AB32", 
+        "category": "Table", 
+        "name": "Epic Table", 
+        "series": "Epic", 
+        "price": 3996, 
+        "currency": "NOK", 
+        "transaction_id": 17063879
+    }, 
+    "84": {
+        "sku": "CB76C2", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 1115, 
+        "currency": "NOK", 
+        "transaction_id": 18841458
+    }, 
+    "85": {
+        "sku": "375061", 
+        "category": "Sofa", 
+        "name": "Luminous Sofa", 
+        "series": "Luminous", 
+        "price": 3043, 
+        "currency": "NOK", 
+        "transaction_id": 19816432
+    }, 
+    "86": {
+        "sku": "D9833C", 
+        "category": "Lamp", 
+        "name": "Stylish Lamp", 
+        "series": "Stylish", 
+        "price": 3040, 
+        "currency": "NOK", 
+        "transaction_id": 17182315
+    }, 
+    "87": {
+        "sku": "06ADB2", 
+        "category": "Recliner", 
+        "name": "Geometric Recliner", 
+        "series": "Geometric", 
+        "price": 1290, 
+        "currency": "NOK", 
+        "transaction_id": 17014687
+    }, 
+    "88": {
+        "sku": "FD06FC", 
+        "category": "Recliner", 
+        "name": "Slick Recliner", 
+        "series": "Slick", 
+        "price": 641, 
+        "currency": "NOK", 
+        "transaction_id": 16017398
+    }, 
+    "89": {
+        "sku": "B227E0", 
+        "category": "Desk", 
+        "name": "Posh Desk", 
+        "series": "Posh", 
+        "price": 997, 
+        "currency": "NOK", 
+        "transaction_id": 17583290
+    }, 
+    "90": {
+        "sku": "D10324", 
+        "category": "Table", 
+        "name": "Supreme Table", 
+        "series": "Supreme", 
+        "price": 3256, 
+        "currency": "NOK", 
+        "transaction_id": 18922483
+    }, 
+    "91": {
+        "sku": "F863D2", 
+        "category": "Sofa", 
+        "name": "Ace Sofa", 
+        "series": "Ace", 
+        "price": 3460, 
+        "currency": "NOK", 
+        "transaction_id": 15661025
+    }, 
+    "92": {
+        "sku": "AB331E", 
+        "category": "Table", 
+        "name": "Geometric Table", 
+        "series": "Geometric", 
+        "price": 4622, 
+        "currency": "NOK", 
+        "transaction_id": 18771874
+    }, 
+    "93": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "94": {
+        "sku": "7A5494", 
+        "category": "Chair", 
+        "name": "Ace Chair", 
+        "series": "Ace", 
+        "price": 1493, 
+        "currency": "NOK", 
+        "transaction_id": 18455809
+    }, 
+    "95": {
+        "sku": "170A47", 
+        "category": "Desk", 
+        "name": "Exquisite Desk", 
+        "series": "Exquisite", 
+        "price": 4253, 
+        "currency": "NOK", 
+        "transaction_id": 16152746
+    }, 
+    "96": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "97": {
+        "sku": "5E473B", 
+        "category": "Recliner", 
+        "name": "Tiptop Recliner", 
+        "series": "Tiptop", 
+        "price": 3443, 
+        "currency": "NOK", 
+        "transaction_id": 15912664
+    }, 
+    "98": {
+        "sku": "15369C", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 1838, 
+        "currency": "NOK", 
+        "transaction_id": 18222162
+    }, 
+    "99": {
+        "sku": "F3ED81", 
+        "category": "Sofa", 
+        "name": "Geometric Sofa", 
+        "series": "Geometric", 
+        "price": 3098, 
+        "currency": "NOK", 
+        "transaction_id": 17681372
+    }, 
+    "100": {
+        "sku": "11BC44", 
+        "category": "Desk", 
+        "name": "Ace Desk", 
+        "series": "Ace", 
+        "price": 2444, 
+        "currency": "NOK", 
+        "transaction_id": 19952624
+    }, 
+    "101": {
+        "sku": "CB76C2", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 1115, 
+        "currency": "NOK", 
+        "transaction_id": 18841458
+    }, 
+    "102": {
+        "sku": "732A23", 
+        "category": "Table", 
+        "name": "Neat Table", 
+        "series": "Neat", 
+        "price": 37, 
+        "currency": "NOK", 
+        "transaction_id": 15967424
+    }, 
+    "103": {
+        "sku": "2EB931", 
+        "category": "Sofa", 
+        "name": "Epic Sofa", 
+        "series": "Epic", 
+        "price": 3062, 
+        "currency": "NOK", 
+        "transaction_id": 17753898
+    }, 
+    "104": {
+        "sku": "67657F", 
+        "category": "Sofa", 
+        "name": "Stylish Sofa", 
+        "series": "Stylish", 
+        "price": 784, 
+        "currency": "NOK", 
+        "transaction_id": 19259380
+    }, 
+    "105": {
+        "sku": "ABD6FE", 
+        "category": "Chair", 
+        "name": "Supreme Chair", 
+        "series": "Supreme", 
+        "price": 4383, 
+        "currency": "NOK", 
+        "transaction_id": 15372164
+    }, 
+    "106": {
+        "sku": "D26301", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 566, 
+        "currency": "NOK", 
+        "transaction_id": 15908404
+    }, 
+    "107": {
+        "sku": "93C2F0", 
+        "category": "Table", 
+        "name": "Supreme Table", 
+        "series": "Supreme", 
+        "price": 4411, 
+        "currency": "NOK", 
+        "transaction_id": 16102896
+    }, 
+    "108": {
+        "sku": "375061", 
+        "category": "Sofa", 
+        "name": "Luminous Sofa", 
+        "series": "Luminous", 
+        "price": 3043, 
+        "currency": "NOK", 
+        "transaction_id": 19816432
+    }, 
+    "109": {
+        "sku": "CDBE80", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 583, 
+        "currency": "NOK", 
+        "transaction_id": 19515187
+    }, 
+    "110": {
+        "sku": "236471", 
+        "category": "Sofa", 
+        "name": "Exquisite Sofa", 
+        "series": "Exquisite", 
+        "price": 4093, 
+        "currency": "NOK", 
+        "transaction_id": 18441585
+    }, 
+    "111": {
+        "sku": "7FD20C", 
+        "category": "Lamp", 
+        "name": "Neat Lamp", 
+        "series": "Neat", 
+        "price": 4850, 
+        "currency": "NOK", 
+        "transaction_id": 16808751
+    }, 
+    "112": {
+        "sku": "D4794D", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4153, 
+        "currency": "NOK", 
+        "transaction_id": 19068894
+    }, 
+    "113": {
+        "sku": "FD06FC", 
+        "category": "Recliner", 
+        "name": "Slick Recliner", 
+        "series": "Slick", 
+        "price": 641, 
+        "currency": "NOK", 
+        "transaction_id": 16017398
+    }, 
+    "114": {
+        "sku": "220E86", 
+        "category": "Desk", 
+        "name": "Brilliant Desk", 
+        "series": "Brilliant", 
+        "price": 1891, 
+        "currency": "NOK", 
+        "transaction_id": 18343919
+    }, 
+    "115": {
+        "sku": "C975F9", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1818, 
+        "currency": "NOK", 
+        "transaction_id": 17635183
+    }, 
+    "116": {
+        "sku": "D8C525", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 635, 
+        "currency": "NOK", 
+        "transaction_id": 19823065
+    }, 
+    "117": {
+        "sku": "BE81D2", 
+        "category": "Recliner", 
+        "name": "Beautiful Recliner", 
+        "series": "Beautiful", 
+        "price": 4653, 
+        "currency": "NOK", 
+        "transaction_id": 16966966
+    }, 
+    "118": {
+        "sku": "FD06FC", 
+        "category": "Recliner", 
+        "name": "Slick Recliner", 
+        "series": "Slick", 
+        "price": 641, 
+        "currency": "NOK", 
+        "transaction_id": 16017398
+    }, 
+    "119": {
+        "sku": "D6B4AE", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 1439, 
+        "currency": "NOK", 
+        "transaction_id": 16945131
+    }, 
+    "120": {
+        "sku": "D6B4AE", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 1439, 
+        "currency": "NOK", 
+        "transaction_id": 16945131
+    }, 
+    "121": {
+        "sku": "8E4598", 
+        "category": "Sofa", 
+        "name": "Slick Sofa", 
+        "series": "Slick", 
+        "price": 1859, 
+        "currency": "NOK", 
+        "transaction_id": 19117955
+    }, 
+    "122": {
+        "sku": "E75DFA", 
+        "category": "Sofa", 
+        "name": "Striking Sofa", 
+        "series": "Striking", 
+        "price": 1391, 
+        "currency": "NOK", 
+        "transaction_id": 18109982
+    }, 
+    "123": {
+        "sku": "D8C525", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 635, 
+        "currency": "NOK", 
+        "transaction_id": 19823065
+    }, 
+    "124": {
+        "sku": "0F48AE", 
+        "category": "Recliner", 
+        "name": "Stupendous Recliner", 
+        "series": "Stupendous", 
+        "price": 4682, 
+        "currency": "NOK", 
+        "transaction_id": 18616238
+    }, 
+    "125": {
+        "sku": "06ADB2", 
+        "category": "Recliner", 
+        "name": "Geometric Recliner", 
+        "series": "Geometric", 
+        "price": 1290, 
+        "currency": "NOK", 
+        "transaction_id": 17014687
+    }, 
+    "126": {
+        "sku": "F863D2", 
+        "category": "Sofa", 
+        "name": "Ace Sofa", 
+        "series": "Ace", 
+        "price": 3460, 
+        "currency": "NOK", 
+        "transaction_id": 15661025
+    }, 
+    "127": {
+        "sku": "982AEB", 
+        "category": "Chair", 
+        "name": "Ace Chair", 
+        "series": "Ace", 
+        "price": 2606, 
+        "currency": "NOK", 
+        "transaction_id": 18270047
+    }, 
+    "128": {
+        "sku": "B227E0", 
+        "category": "Desk", 
+        "name": "Posh Desk", 
+        "series": "Posh", 
+        "price": 997, 
+        "currency": "NOK", 
+        "transaction_id": 17583290
+    }, 
+    "129": {
+        "sku": "8A4B5A", 
+        "category": "Chair", 
+        "name": "Praiseworthy Chair", 
+        "series": "Praiseworthy", 
+        "price": 81, 
+        "currency": "NOK", 
+        "transaction_id": 17651109
+    }, 
+    "130": {
+        "sku": "3FBDBB", 
+        "category": "Desk", 
+        "name": "Beautiful Desk", 
+        "series": "Beautiful", 
+        "price": 4150, 
+        "currency": "NOK", 
+        "transaction_id": 17141565
+    }, 
+    "131": {
+        "sku": "3077F0", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 155, 
+        "currency": "NOK", 
+        "transaction_id": 17031033
+    }, 
+    "132": {
+        "sku": "8C98AF", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 2347, 
+        "currency": "NOK", 
+        "transaction_id": 17260353
+    }, 
+    "133": {
+        "sku": "C559B2", 
+        "category": "Table", 
+        "name": "Terrific Table", 
+        "series": "Terrific", 
+        "price": 582, 
+        "currency": "NOK", 
+        "transaction_id": 16295833
+    }, 
+    "134": {
+        "sku": "11BC44", 
+        "category": "Desk", 
+        "name": "Ace Desk", 
+        "series": "Ace", 
+        "price": 2444, 
+        "currency": "NOK", 
+        "transaction_id": 19952624
+    }, 
+    "135": {
+        "sku": "D9833C", 
+        "category": "Lamp", 
+        "name": "Stylish Lamp", 
+        "series": "Stylish", 
+        "price": 3040, 
+        "currency": "NOK", 
+        "transaction_id": 17182315
+    }, 
+    "136": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "137": {
+        "sku": "903C9C", 
+        "category": "Desk", 
+        "name": "Striking Desk", 
+        "series": "Striking", 
+        "price": 3327, 
+        "currency": "NOK", 
+        "transaction_id": 17825670
+    }, 
+    "138": {
+        "sku": "7A5494", 
+        "category": "Chair", 
+        "name": "Ace Chair", 
+        "series": "Ace", 
+        "price": 1493, 
+        "currency": "NOK", 
+        "transaction_id": 18455809
+    }, 
+    "139": {
+        "sku": "74F576", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 3676, 
+        "currency": "NOK", 
+        "transaction_id": 18550266
+    }, 
+    "140": {
+        "sku": "42A840", 
+        "category": "Desk", 
+        "name": "Posh Desk", 
+        "series": "Posh", 
+        "price": 633, 
+        "currency": "NOK", 
+        "transaction_id": 19330355
+    }, 
+    "141": {
+        "sku": "2455DE", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 575, 
+        "currency": "NOK", 
+        "transaction_id": 17647571
+    }, 
+    "142": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "143": {
+        "sku": "C559B2", 
+        "category": "Table", 
+        "name": "Terrific Table", 
+        "series": "Terrific", 
+        "price": 582, 
+        "currency": "NOK", 
+        "transaction_id": 16295833
+    }, 
+    "144": {
+        "sku": "626D60", 
+        "category": "Desk", 
+        "name": "Praiseworthy Desk", 
+        "series": "Praiseworthy", 
+        "price": 3190, 
+        "currency": "NOK", 
+        "transaction_id": 17993191
+    }, 
+    "145": {
+        "sku": "8FD330", 
+        "category": "Sofa", 
+        "name": "Stupendous Sofa", 
+        "series": "Stupendous", 
+        "price": 1306, 
+        "currency": "NOK", 
+        "transaction_id": 18343164
+    }, 
+    "146": {
+        "sku": "956B1F", 
+        "category": "Table", 
+        "name": "Exquisite Table", 
+        "series": "Exquisite", 
+        "price": 4431, 
+        "currency": "NOK", 
+        "transaction_id": 19766843
+    }, 
+    "147": {
+        "sku": "CDBE80", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 583, 
+        "currency": "NOK", 
+        "transaction_id": 19515187
+    }, 
+    "148": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "149": {
+        "sku": "CB6408", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 4796, 
+        "currency": "NOK", 
+        "transaction_id": 18288476
+    }, 
+    "150": {
+        "sku": "67657F", 
+        "category": "Sofa", 
+        "name": "Stylish Sofa", 
+        "series": "Stylish", 
+        "price": 784, 
+        "currency": "NOK", 
+        "transaction_id": 19259380
+    }, 
+    "151": {
+        "sku": "E75DFA", 
+        "category": "Sofa", 
+        "name": "Striking Sofa", 
+        "series": "Striking", 
+        "price": 1391, 
+        "currency": "NOK", 
+        "transaction_id": 18109982
+    }, 
+    "152": {
+        "sku": "67657F", 
+        "category": "Sofa", 
+        "name": "Stylish Sofa", 
+        "series": "Stylish", 
+        "price": 784, 
+        "currency": "NOK", 
+        "transaction_id": 19259380
+    }, 
+    "153": {
+        "sku": "1F4878", 
+        "category": "Lamp", 
+        "name": "Striking Lamp", 
+        "series": "Striking", 
+        "price": 4920, 
+        "currency": "NOK", 
+        "transaction_id": 18910999
+    }, 
+    "154": {
+        "sku": "F721BD", 
+        "category": "Sofa", 
+        "name": "Posh Sofa", 
+        "series": "Posh", 
+        "price": 4923, 
+        "currency": "NOK", 
+        "transaction_id": 19279310
+    }, 
+    "155": {
+        "sku": "804B22", 
+        "category": "Lamp", 
+        "name": "Epic Lamp", 
+        "series": "Epic", 
+        "price": 1773, 
+        "currency": "NOK", 
+        "transaction_id": 16353248
+    }, 
+    "156": {
+        "sku": "A85B7D", 
+        "category": "Table", 
+        "name": "Tiptop Table", 
+        "series": "Tiptop", 
+        "price": 1398, 
+        "currency": "NOK", 
+        "transaction_id": 16932817
+    }, 
+    "157": {
+        "sku": "3077F0", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 155, 
+        "currency": "NOK", 
+        "transaction_id": 17031033
+    }, 
+    "158": {
+        "sku": "A85B7D", 
+        "category": "Table", 
+        "name": "Tiptop Table", 
+        "series": "Tiptop", 
+        "price": 1398, 
+        "currency": "NOK", 
+        "transaction_id": 16932817
+    }, 
+    "159": {
+        "sku": "D6B4AE", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 1439, 
+        "currency": "NOK", 
+        "transaction_id": 16945131
+    }, 
+    "160": {
+        "sku": "F4B98D", 
+        "category": "Recliner", 
+        "name": "Tiptop Recliner", 
+        "series": "Tiptop", 
+        "price": 2456, 
+        "currency": "NOK", 
+        "transaction_id": 19508748
+    }, 
+    "161": {
+        "sku": "CDBE80", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 583, 
+        "currency": "NOK", 
+        "transaction_id": 19515187
+    }, 
+    "162": {
+        "sku": "BE81D2", 
+        "category": "Recliner", 
+        "name": "Beautiful Recliner", 
+        "series": "Beautiful", 
+        "price": 4653, 
+        "currency": "NOK", 
+        "transaction_id": 16966966
+    }, 
+    "163": {
+        "sku": "C559B2", 
+        "category": "Table", 
+        "name": "Terrific Table", 
+        "series": "Terrific", 
+        "price": 582, 
+        "currency": "NOK", 
+        "transaction_id": 16295833
+    }, 
+    "164": {
+        "sku": "FD06FC", 
+        "category": "Recliner", 
+        "name": "Slick Recliner", 
+        "series": "Slick", 
+        "price": 641, 
+        "currency": "NOK", 
+        "transaction_id": 16017398
+    }, 
+    "165": {
+        "sku": "798526", 
+        "category": "Recliner", 
+        "name": "Stupendous Recliner", 
+        "series": "Stupendous", 
+        "price": 2334, 
+        "currency": "NOK", 
+        "transaction_id": 18178046
+    }, 
+    "166": {
+        "sku": "9156D9", 
+        "category": "Recliner", 
+        "name": "Beautiful Recliner", 
+        "series": "Beautiful", 
+        "price": 2983, 
+        "currency": "NOK", 
+        "transaction_id": 19113933
+    }, 
+    "167": {
+        "sku": "E23461", 
+        "category": "Sofa", 
+        "name": "Ace Sofa", 
+        "series": "Ace", 
+        "price": 754, 
+        "currency": "NOK", 
+        "transaction_id": 16260093
+    }, 
+    "168": {
+        "sku": "CDBE80", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 583, 
+        "currency": "NOK", 
+        "transaction_id": 19515187
+    }, 
+    "169": {
+        "sku": "359BF3", 
+        "category": "Desk", 
+        "name": "Striking Desk", 
+        "series": "Striking", 
+        "price": 1578, 
+        "currency": "NOK", 
+        "transaction_id": 16674262
+    }, 
+    "170": {
+        "sku": "732A23", 
+        "category": "Table", 
+        "name": "Neat Table", 
+        "series": "Neat", 
+        "price": 37, 
+        "currency": "NOK", 
+        "transaction_id": 15967424
+    }, 
+    "171": {
+        "sku": "39F882", 
+        "category": "Chair", 
+        "name": "Terrific Chair", 
+        "series": "Terrific", 
+        "price": 3564, 
+        "currency": "NOK", 
+        "transaction_id": 17194948
+    }, 
+    "172": {
+        "sku": "B227E0", 
+        "category": "Desk", 
+        "name": "Posh Desk", 
+        "series": "Posh", 
+        "price": 997, 
+        "currency": "NOK", 
+        "transaction_id": 17583290
+    }, 
+    "173": {
+        "sku": "06ADB2", 
+        "category": "Recliner", 
+        "name": "Geometric Recliner", 
+        "series": "Geometric", 
+        "price": 1290, 
+        "currency": "NOK", 
+        "transaction_id": 17014687
+    }, 
+    "174": {
+        "sku": "8A301C", 
+        "category": "Table", 
+        "name": "Praiseworthy Table", 
+        "series": "Praiseworthy", 
+        "price": 2966, 
+        "currency": "NOK", 
+        "transaction_id": 19405485
+    }, 
+    "175": {
+        "sku": "A85B7D", 
+        "category": "Table", 
+        "name": "Tiptop Table", 
+        "series": "Tiptop", 
+        "price": 1398, 
+        "currency": "NOK", 
+        "transaction_id": 16932817
+    }, 
+    "176": {
+        "sku": "375061", 
+        "category": "Sofa", 
+        "name": "Luminous Sofa", 
+        "series": "Luminous", 
+        "price": 3043, 
+        "currency": "NOK", 
+        "transaction_id": 19816432
+    }, 
+    "177": {
+        "sku": "D26301", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 566, 
+        "currency": "NOK", 
+        "transaction_id": 15908404
+    }, 
+    "178": {
+        "sku": "7A63C8", 
+        "category": "Desk", 
+        "name": "Supreme Desk", 
+        "series": "Supreme", 
+        "price": 2025, 
+        "currency": "NOK", 
+        "transaction_id": 19812311
+    }, 
+    "179": {
+        "sku": "CB76C2", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 1115, 
+        "currency": "NOK", 
+        "transaction_id": 18841458
+    }, 
+    "180": {
+        "sku": "359BF3", 
+        "category": "Desk", 
+        "name": "Striking Desk", 
+        "series": "Striking", 
+        "price": 1578, 
+        "currency": "NOK", 
+        "transaction_id": 16674262
+    }, 
+    "181": {
+        "sku": "7A5494", 
+        "category": "Chair", 
+        "name": "Ace Chair", 
+        "series": "Ace", 
+        "price": 1493, 
+        "currency": "NOK", 
+        "transaction_id": 18455809
+    }, 
+    "182": {
+        "sku": "393E65", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1041, 
+        "currency": "NOK", 
+        "transaction_id": 19138493
+    }, 
+    "183": {
+        "sku": "3324F5", 
+        "category": "Lamp", 
+        "name": "Stupendous Lamp", 
+        "series": "Stupendous", 
+        "price": 2973, 
+        "currency": "NOK", 
+        "transaction_id": 18224908
+    }, 
+    "184": {
+        "sku": "AB331E", 
+        "category": "Table", 
+        "name": "Geometric Table", 
+        "series": "Geometric", 
+        "price": 4622, 
+        "currency": "NOK", 
+        "transaction_id": 18771874
+    }, 
+    "185": {
+        "sku": "D4794D", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4153, 
+        "currency": "NOK", 
+        "transaction_id": 19068894
+    }, 
+    "186": {
+        "sku": "C34303", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 1599, 
+        "currency": "NOK", 
+        "transaction_id": 15628266
+    }, 
+    "187": {
+        "sku": "D4794D", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4153, 
+        "currency": "NOK", 
+        "transaction_id": 19068894
+    }, 
+    "188": {
+        "sku": "375061", 
+        "category": "Sofa", 
+        "name": "Luminous Sofa", 
+        "series": "Luminous", 
+        "price": 3043, 
+        "currency": "NOK", 
+        "transaction_id": 19816432
+    }, 
+    "189": {
+        "sku": "D26301", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 566, 
+        "currency": "NOK", 
+        "transaction_id": 15908404
+    }, 
+    "190": {
+        "sku": "236471", 
+        "category": "Sofa", 
+        "name": "Exquisite Sofa", 
+        "series": "Exquisite", 
+        "price": 4093, 
+        "currency": "NOK", 
+        "transaction_id": 18441585
+    }, 
+    "191": {
+        "sku": "626D60", 
+        "category": "Desk", 
+        "name": "Praiseworthy Desk", 
+        "series": "Praiseworthy", 
+        "price": 3190, 
+        "currency": "NOK", 
+        "transaction_id": 17993191
+    }, 
+    "192": {
+        "sku": "5E473B", 
+        "category": "Recliner", 
+        "name": "Tiptop Recliner", 
+        "series": "Tiptop", 
+        "price": 3443, 
+        "currency": "NOK", 
+        "transaction_id": 15912664
+    }, 
+    "193": {
+        "sku": "42A840", 
+        "category": "Desk", 
+        "name": "Posh Desk", 
+        "series": "Posh", 
+        "price": 633, 
+        "currency": "NOK", 
+        "transaction_id": 19330355
+    }, 
+    "194": {
+        "sku": "2709CF", 
+        "category": "Recliner", 
+        "name": "Beautiful Recliner", 
+        "series": "Beautiful", 
+        "price": 3857, 
+        "currency": "NOK", 
+        "transaction_id": 17569475
+    }, 
+    "195": {
+        "sku": "170A47", 
+        "category": "Desk", 
+        "name": "Exquisite Desk", 
+        "series": "Exquisite", 
+        "price": 4253, 
+        "currency": "NOK", 
+        "transaction_id": 16152746
+    }, 
+    "196": {
+        "sku": "236471", 
+        "category": "Sofa", 
+        "name": "Exquisite Sofa", 
+        "series": "Exquisite", 
+        "price": 4093, 
+        "currency": "NOK", 
+        "transaction_id": 18441585
+    }, 
+    "197": {
+        "sku": "4E9212", 
+        "category": "Lamp", 
+        "name": "Posh Lamp", 
+        "series": "Posh", 
+        "price": 1898, 
+        "currency": "NOK", 
+        "transaction_id": 16657720
+    }, 
+    "198": {
+        "sku": "8E4598", 
+        "category": "Sofa", 
+        "name": "Slick Sofa", 
+        "series": "Slick", 
+        "price": 1859, 
+        "currency": "NOK", 
+        "transaction_id": 19117955
+    }, 
+    "199": {
+        "sku": "2455DE", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 575, 
+        "currency": "NOK", 
+        "transaction_id": 17647571
+    }, 
+    "200": {
+        "sku": "956B1F", 
+        "category": "Table", 
+        "name": "Exquisite Table", 
+        "series": "Exquisite", 
+        "price": 4431, 
+        "currency": "NOK", 
+        "transaction_id": 19766843
+    }, 
+    "201": {
+        "sku": "BA4A1B", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 4285, 
+        "currency": "NOK", 
+        "transaction_id": 16813944
+    }, 
+    "202": {
+        "sku": "A8B8A2", 
+        "category": "Lamp", 
+        "name": "Slick Lamp", 
+        "series": "Slick", 
+        "price": 3956, 
+        "currency": "NOK", 
+        "transaction_id": 15147791
+    }, 
+    "203": {
+        "sku": "95761D", 
+        "category": "Sofa", 
+        "name": "Terrific Sofa", 
+        "series": "Terrific", 
+        "price": 4339, 
+        "currency": "NOK", 
+        "transaction_id": 18655067
+    }, 
+    "204": {
+        "sku": "375061", 
+        "category": "Sofa", 
+        "name": "Luminous Sofa", 
+        "series": "Luminous", 
+        "price": 3043, 
+        "currency": "NOK", 
+        "transaction_id": 19816432
+    }, 
+    "205": {
+        "sku": "C34303", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 1599, 
+        "currency": "NOK", 
+        "transaction_id": 15628266
+    }, 
+    "206": {
+        "sku": "626D60", 
+        "category": "Desk", 
+        "name": "Praiseworthy Desk", 
+        "series": "Praiseworthy", 
+        "price": 3190, 
+        "currency": "NOK", 
+        "transaction_id": 17993191
+    }, 
+    "207": {
+        "sku": "7FD20C", 
+        "category": "Lamp", 
+        "name": "Neat Lamp", 
+        "series": "Neat", 
+        "price": 4850, 
+        "currency": "NOK", 
+        "transaction_id": 16808751
+    }, 
+    "208": {
+        "sku": "06ADB2", 
+        "category": "Recliner", 
+        "name": "Geometric Recliner", 
+        "series": "Geometric", 
+        "price": 1290, 
+        "currency": "NOK", 
+        "transaction_id": 17014687
+    }, 
+    "209": {
+        "sku": "359BF3", 
+        "category": "Desk", 
+        "name": "Striking Desk", 
+        "series": "Striking", 
+        "price": 1578, 
+        "currency": "NOK", 
+        "transaction_id": 16674262
+    }, 
+    "210": {
+        "sku": "C26553", 
+        "category": "Recliner", 
+        "name": "Sensational Recliner", 
+        "series": "Sensational", 
+        "price": 3305, 
+        "currency": "NOK", 
+        "transaction_id": 16393646
+    }, 
+    "211": {
+        "sku": "C975F9", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1818, 
+        "currency": "NOK", 
+        "transaction_id": 17635183
+    }, 
+    "212": {
+        "sku": "CB76C2", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 1115, 
+        "currency": "NOK", 
+        "transaction_id": 18841458
+    }, 
+    "213": {
+        "sku": "375061", 
+        "category": "Sofa", 
+        "name": "Luminous Sofa", 
+        "series": "Luminous", 
+        "price": 3043, 
+        "currency": "NOK", 
+        "transaction_id": 19816432
+    }, 
+    "214": {
+        "sku": "C975F9", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1818, 
+        "currency": "NOK", 
+        "transaction_id": 17635183
+    }, 
+    "215": {
+        "sku": "39F882", 
+        "category": "Chair", 
+        "name": "Terrific Chair", 
+        "series": "Terrific", 
+        "price": 3564, 
+        "currency": "NOK", 
+        "transaction_id": 17194948
+    }, 
+    "216": {
+        "sku": "0947ED", 
+        "category": "Chair", 
+        "name": "Beautiful Chair", 
+        "series": "Beautiful", 
+        "price": 2101, 
+        "currency": "NOK", 
+        "transaction_id": 18566586
+    }, 
+    "217": {
+        "sku": "1F4878", 
+        "category": "Lamp", 
+        "name": "Striking Lamp", 
+        "series": "Striking", 
+        "price": 4920, 
+        "currency": "NOK", 
+        "transaction_id": 18910999
+    }, 
+    "218": {
+        "sku": "804B22", 
+        "category": "Lamp", 
+        "name": "Epic Lamp", 
+        "series": "Epic", 
+        "price": 1773, 
+        "currency": "NOK", 
+        "transaction_id": 16353248
+    }, 
+    "219": {
+        "sku": "59C1B4", 
+        "category": "Lamp", 
+        "name": "Terrific Lamp", 
+        "series": "Terrific", 
+        "price": 1451, 
+        "currency": "NOK", 
+        "transaction_id": 17321941
+    }, 
+    "220": {
+        "sku": "0F48AE", 
+        "category": "Recliner", 
+        "name": "Stupendous Recliner", 
+        "series": "Stupendous", 
+        "price": 4682, 
+        "currency": "NOK", 
+        "transaction_id": 18616238
+    }, 
+    "221": {
+        "sku": "2455DE", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 575, 
+        "currency": "NOK", 
+        "transaction_id": 17647571
+    }, 
+    "222": {
+        "sku": "806ECA", 
+        "category": "Table", 
+        "name": "Slick Table", 
+        "series": "Slick", 
+        "price": 337, 
+        "currency": "NOK", 
+        "transaction_id": 15937392
+    }, 
+    "223": {
+        "sku": "804B22", 
+        "category": "Lamp", 
+        "name": "Epic Lamp", 
+        "series": "Epic", 
+        "price": 1773, 
+        "currency": "NOK", 
+        "transaction_id": 16353248
+    }, 
+    "224": {
+        "sku": "95761D", 
+        "category": "Sofa", 
+        "name": "Terrific Sofa", 
+        "series": "Terrific", 
+        "price": 4339, 
+        "currency": "NOK", 
+        "transaction_id": 18655067
+    }, 
+    "225": {
+        "sku": "3077F0", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 155, 
+        "currency": "NOK", 
+        "transaction_id": 17031033
+    }, 
+    "226": {
+        "sku": "E86F6E", 
+        "category": "Recliner", 
+        "name": "Striking Recliner", 
+        "series": "Striking", 
+        "price": 3502, 
+        "currency": "NOK", 
+        "transaction_id": 18515959
+    }, 
+    "227": {
+        "sku": "855769", 
+        "category": "Lamp", 
+        "name": "Geometric Lamp", 
+        "series": "Geometric", 
+        "price": 4599, 
+        "currency": "NOK", 
+        "transaction_id": 16559744
+    }, 
+    "228": {
+        "sku": "7338F8", 
+        "category": "Lamp", 
+        "name": "Tiptop Lamp", 
+        "series": "Tiptop", 
+        "price": 3052, 
+        "currency": "NOK", 
+        "transaction_id": 19696705
+    }, 
+    "229": {
+        "sku": "3D4E2D", 
+        "category": "Lamp", 
+        "name": "Epic Lamp", 
+        "series": "Epic", 
+        "price": 572, 
+        "currency": "NOK", 
+        "transaction_id": 19086222
+    }, 
+    "230": {
+        "sku": "C6841F", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 2853, 
+        "currency": "NOK", 
+        "transaction_id": 18058756
+    }, 
+    "231": {
+        "sku": "903C9C", 
+        "category": "Desk", 
+        "name": "Striking Desk", 
+        "series": "Striking", 
+        "price": 3327, 
+        "currency": "NOK", 
+        "transaction_id": 17825670
+    }, 
+    "232": {
+        "sku": "FD06FC", 
+        "category": "Recliner", 
+        "name": "Slick Recliner", 
+        "series": "Slick", 
+        "price": 641, 
+        "currency": "NOK", 
+        "transaction_id": 16017398
+    }, 
+    "233": {
+        "sku": "481001", 
+        "category": "Desk", 
+        "name": "Geometric Desk", 
+        "series": "Geometric", 
+        "price": 4362, 
+        "currency": "NOK", 
+        "transaction_id": 18392965
+    }, 
+    "234": {
+        "sku": "74F576", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 3676, 
+        "currency": "NOK", 
+        "transaction_id": 18550266
+    }, 
+    "235": {
+        "sku": "8E4598", 
+        "category": "Sofa", 
+        "name": "Slick Sofa", 
+        "series": "Slick", 
+        "price": 1859, 
+        "currency": "NOK", 
+        "transaction_id": 19117955
+    }, 
+    "236": {
+        "sku": "D4794D", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4153, 
+        "currency": "NOK", 
+        "transaction_id": 19068894
+    }, 
+    "237": {
+        "sku": "0947ED", 
+        "category": "Chair", 
+        "name": "Beautiful Chair", 
+        "series": "Beautiful", 
+        "price": 2101, 
+        "currency": "NOK", 
+        "transaction_id": 18566586
+    }, 
+    "238": {
+        "sku": "11BC44", 
+        "category": "Desk", 
+        "name": "Ace Desk", 
+        "series": "Ace", 
+        "price": 2444, 
+        "currency": "NOK", 
+        "transaction_id": 19952624
+    }, 
+    "239": {
+        "sku": "F721BD", 
+        "category": "Sofa", 
+        "name": "Posh Sofa", 
+        "series": "Posh", 
+        "price": 4923, 
+        "currency": "NOK", 
+        "transaction_id": 19279310
+    }, 
+    "240": {
+        "sku": "8A4B5A", 
+        "category": "Chair", 
+        "name": "Praiseworthy Chair", 
+        "series": "Praiseworthy", 
+        "price": 81, 
+        "currency": "NOK", 
+        "transaction_id": 17651109
+    }, 
+    "241": {
+        "sku": "E86F6E", 
+        "category": "Recliner", 
+        "name": "Striking Recliner", 
+        "series": "Striking", 
+        "price": 3502, 
+        "currency": "NOK", 
+        "transaction_id": 18515959
+    }, 
+    "242": {
+        "sku": "236471", 
+        "category": "Sofa", 
+        "name": "Exquisite Sofa", 
+        "series": "Exquisite", 
+        "price": 4093, 
+        "currency": "NOK", 
+        "transaction_id": 18441585
+    }, 
+    "243": {
+        "sku": "170A47", 
+        "category": "Desk", 
+        "name": "Exquisite Desk", 
+        "series": "Exquisite", 
+        "price": 4253, 
+        "currency": "NOK", 
+        "transaction_id": 16152746
+    }, 
+    "244": {
+        "sku": "170A47", 
+        "category": "Desk", 
+        "name": "Exquisite Desk", 
+        "series": "Exquisite", 
+        "price": 4253, 
+        "currency": "NOK", 
+        "transaction_id": 16152746
+    }, 
+    "245": {
+        "sku": "8C98AF", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 2347, 
+        "currency": "NOK", 
+        "transaction_id": 17260353
+    }, 
+    "246": {
+        "sku": "11BC44", 
+        "category": "Desk", 
+        "name": "Ace Desk", 
+        "series": "Ace", 
+        "price": 2444, 
+        "currency": "NOK", 
+        "transaction_id": 19952624
+    }, 
+    "247": {
+        "sku": "855769", 
+        "category": "Lamp", 
+        "name": "Geometric Lamp", 
+        "series": "Geometric", 
+        "price": 4599, 
+        "currency": "NOK", 
+        "transaction_id": 16559744
+    }, 
+    "248": {
+        "sku": "C7473A", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4404, 
+        "currency": "NOK", 
+        "transaction_id": 16463700
+    }, 
+    "249": {
+        "sku": "E23461", 
+        "category": "Sofa", 
+        "name": "Ace Sofa", 
+        "series": "Ace", 
+        "price": 754, 
+        "currency": "NOK", 
+        "transaction_id": 16260093
+    }, 
+    "250": {
+        "sku": "7A63C8", 
+        "category": "Desk", 
+        "name": "Supreme Desk", 
+        "series": "Supreme", 
+        "price": 2025, 
+        "currency": "NOK", 
+        "transaction_id": 19812311
+    }, 
+    "251": {
+        "sku": "42A840", 
+        "category": "Desk", 
+        "name": "Posh Desk", 
+        "series": "Posh", 
+        "price": 633, 
+        "currency": "NOK", 
+        "transaction_id": 19330355
+    }, 
+    "252": {
+        "sku": "732A23", 
+        "category": "Table", 
+        "name": "Neat Table", 
+        "series": "Neat", 
+        "price": 37, 
+        "currency": "NOK", 
+        "transaction_id": 15967424
+    }, 
+    "253": {
+        "sku": "F3ED81", 
+        "category": "Sofa", 
+        "name": "Geometric Sofa", 
+        "series": "Geometric", 
+        "price": 3098, 
+        "currency": "NOK", 
+        "transaction_id": 17681372
+    }, 
+    "254": {
+        "sku": "256CEF", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 4138, 
+        "currency": "NOK", 
+        "transaction_id": 16557337
+    }, 
+    "255": {
+        "sku": "723814", 
+        "category": "Desk", 
+        "name": "Luminous Desk", 
+        "series": "Luminous", 
+        "price": 2618, 
+        "currency": "NOK", 
+        "transaction_id": 19168960
+    }, 
+    "256": {
+        "sku": "CDBE80", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 583, 
+        "currency": "NOK", 
+        "transaction_id": 19515187
+    }, 
+    "257": {
+        "sku": "855769", 
+        "category": "Lamp", 
+        "name": "Geometric Lamp", 
+        "series": "Geometric", 
+        "price": 4599, 
+        "currency": "NOK", 
+        "transaction_id": 16559744
+    }, 
+    "258": {
+        "sku": "D10324", 
+        "category": "Table", 
+        "name": "Supreme Table", 
+        "series": "Supreme", 
+        "price": 3256, 
+        "currency": "NOK", 
+        "transaction_id": 18922483
+    }, 
+    "259": {
+        "sku": "CDBE80", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 583, 
+        "currency": "NOK", 
+        "transaction_id": 19515187
+    }, 
+    "260": {
+        "sku": "256CEF", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 4138, 
+        "currency": "NOK", 
+        "transaction_id": 16557337
+    }, 
+    "261": {
+        "sku": "D10324", 
+        "category": "Table", 
+        "name": "Supreme Table", 
+        "series": "Supreme", 
+        "price": 3256, 
+        "currency": "NOK", 
+        "transaction_id": 18922483
+    }, 
+    "262": {
+        "sku": "464728", 
+        "category": "Desk", 
+        "name": "Geometric Desk", 
+        "series": "Geometric", 
+        "price": 4632, 
+        "currency": "NOK", 
+        "transaction_id": 16362541
+    }, 
+    "263": {
+        "sku": "83F2DC", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 4122, 
+        "currency": "NOK", 
+        "transaction_id": 17187893
+    }, 
+    "264": {
+        "sku": "170A47", 
+        "category": "Desk", 
+        "name": "Exquisite Desk", 
+        "series": "Exquisite", 
+        "price": 4253, 
+        "currency": "NOK", 
+        "transaction_id": 16152746
+    }, 
+    "265": {
+        "sku": "2211A7", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 2352, 
+        "currency": "NOK", 
+        "transaction_id": 15728322
+    }, 
+    "266": {
+        "sku": "7338F8", 
+        "category": "Lamp", 
+        "name": "Tiptop Lamp", 
+        "series": "Tiptop", 
+        "price": 3052, 
+        "currency": "NOK", 
+        "transaction_id": 19696705
+    }, 
+    "267": {
+        "sku": "3B914E", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 4215, 
+        "currency": "NOK", 
+        "transaction_id": 18058752
+    }, 
+    "268": {
+        "sku": "42A840", 
+        "category": "Desk", 
+        "name": "Posh Desk", 
+        "series": "Posh", 
+        "price": 633, 
+        "currency": "NOK", 
+        "transaction_id": 19330355
+    }, 
+    "269": {
+        "sku": "C26553", 
+        "category": "Recliner", 
+        "name": "Sensational Recliner", 
+        "series": "Sensational", 
+        "price": 3305, 
+        "currency": "NOK", 
+        "transaction_id": 16393646
+    }, 
+    "270": {
+        "sku": "D26301", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 566, 
+        "currency": "NOK", 
+        "transaction_id": 15908404
+    }, 
+    "271": {
+        "sku": "D9833C", 
+        "category": "Lamp", 
+        "name": "Stylish Lamp", 
+        "series": "Stylish", 
+        "price": 3040, 
+        "currency": "NOK", 
+        "transaction_id": 17182315
+    }, 
+    "272": {
+        "sku": "C975F9", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1818, 
+        "currency": "NOK", 
+        "transaction_id": 17635183
+    }, 
+    "273": {
+        "sku": "15369C", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 1838, 
+        "currency": "NOK", 
+        "transaction_id": 18222162
+    }, 
+    "274": {
+        "sku": "5E473B", 
+        "category": "Recliner", 
+        "name": "Tiptop Recliner", 
+        "series": "Tiptop", 
+        "price": 3443, 
+        "currency": "NOK", 
+        "transaction_id": 15912664
+    }, 
+    "275": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "276": {
+        "sku": "D10324", 
+        "category": "Table", 
+        "name": "Supreme Table", 
+        "series": "Supreme", 
+        "price": 3256, 
+        "currency": "NOK", 
+        "transaction_id": 18922483
+    }, 
+    "277": {
+        "sku": "E86F6E", 
+        "category": "Recliner", 
+        "name": "Striking Recliner", 
+        "series": "Striking", 
+        "price": 3502, 
+        "currency": "NOK", 
+        "transaction_id": 18515959
+    }, 
+    "278": {
+        "sku": "0947ED", 
+        "category": "Chair", 
+        "name": "Beautiful Chair", 
+        "series": "Beautiful", 
+        "price": 2101, 
+        "currency": "NOK", 
+        "transaction_id": 18566586
+    }, 
+    "279": {
+        "sku": "FD06FC", 
+        "category": "Recliner", 
+        "name": "Slick Recliner", 
+        "series": "Slick", 
+        "price": 641, 
+        "currency": "NOK", 
+        "transaction_id": 16017398
+    }, 
+    "280": {
+        "sku": "8A4B5A", 
+        "category": "Chair", 
+        "name": "Praiseworthy Chair", 
+        "series": "Praiseworthy", 
+        "price": 81, 
+        "currency": "NOK", 
+        "transaction_id": 17651109
+    }, 
+    "281": {
+        "sku": "35EEDC", 
+        "category": "Lamp", 
+        "name": "Ace Lamp", 
+        "series": "Ace", 
+        "price": 2863, 
+        "currency": "NOK", 
+        "transaction_id": 17115126
+    }, 
+    "282": {
+        "sku": "7A63C8", 
+        "category": "Desk", 
+        "name": "Supreme Desk", 
+        "series": "Supreme", 
+        "price": 2025, 
+        "currency": "NOK", 
+        "transaction_id": 19812311
+    }, 
+    "283": {
+        "sku": "B227E0", 
+        "category": "Desk", 
+        "name": "Posh Desk", 
+        "series": "Posh", 
+        "price": 997, 
+        "currency": "NOK", 
+        "transaction_id": 17583290
+    }, 
+    "284": {
+        "sku": "EBE146", 
+        "category": "Lamp", 
+        "name": "Supreme Lamp", 
+        "series": "Supreme", 
+        "price": 236, 
+        "currency": "NOK", 
+        "transaction_id": 19482273
+    }, 
+    "285": {
+        "sku": "220E86", 
+        "category": "Desk", 
+        "name": "Brilliant Desk", 
+        "series": "Brilliant", 
+        "price": 1891, 
+        "currency": "NOK", 
+        "transaction_id": 18343919
+    }, 
+    "286": {
+        "sku": "D9833C", 
+        "category": "Lamp", 
+        "name": "Stylish Lamp", 
+        "series": "Stylish", 
+        "price": 3040, 
+        "currency": "NOK", 
+        "transaction_id": 17182315
+    }, 
+    "287": {
+        "sku": "806ECA", 
+        "category": "Table", 
+        "name": "Slick Table", 
+        "series": "Slick", 
+        "price": 337, 
+        "currency": "NOK", 
+        "transaction_id": 15937392
+    }, 
+    "288": {
+        "sku": "3E138C", 
+        "category": "Table", 
+        "name": "Geometric Table", 
+        "series": "Geometric", 
+        "price": 2554, 
+        "currency": "NOK", 
+        "transaction_id": 15021781
+    }, 
+    "289": {
+        "sku": "35EEDC", 
+        "category": "Lamp", 
+        "name": "Ace Lamp", 
+        "series": "Ace", 
+        "price": 2863, 
+        "currency": "NOK", 
+        "transaction_id": 17115126
+    }, 
+    "290": {
+        "sku": "74F576", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 3676, 
+        "currency": "NOK", 
+        "transaction_id": 18550266
+    }, 
+    "291": {
+        "sku": "375061", 
+        "category": "Sofa", 
+        "name": "Luminous Sofa", 
+        "series": "Luminous", 
+        "price": 3043, 
+        "currency": "NOK", 
+        "transaction_id": 19816432
+    }, 
+    "292": {
+        "sku": "3324F5", 
+        "category": "Lamp", 
+        "name": "Stupendous Lamp", 
+        "series": "Stupendous", 
+        "price": 2973, 
+        "currency": "NOK", 
+        "transaction_id": 18224908
+    }, 
+    "293": {
+        "sku": "5E5CF2", 
+        "category": "Desk", 
+        "name": "Well-made Desk", 
+        "series": "Well-made", 
+        "price": 48, 
+        "currency": "NOK", 
+        "transaction_id": 15218604
+    }, 
+    "294": {
+        "sku": "375061", 
+        "category": "Sofa", 
+        "name": "Luminous Sofa", 
+        "series": "Luminous", 
+        "price": 3043, 
+        "currency": "NOK", 
+        "transaction_id": 19816432
+    }, 
+    "295": {
+        "sku": "74F576", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 3676, 
+        "currency": "NOK", 
+        "transaction_id": 18550266
+    }, 
+    "296": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "297": {
+        "sku": "E86F6E", 
+        "category": "Recliner", 
+        "name": "Striking Recliner", 
+        "series": "Striking", 
+        "price": 3502, 
+        "currency": "NOK", 
+        "transaction_id": 18515959
+    }, 
+    "298": {
+        "sku": "626D60", 
+        "category": "Desk", 
+        "name": "Praiseworthy Desk", 
+        "series": "Praiseworthy", 
+        "price": 3190, 
+        "currency": "NOK", 
+        "transaction_id": 17993191
+    }, 
+    "299": {
+        "sku": "A2777D", 
+        "category": "Recliner", 
+        "name": "Praiseworthy Recliner", 
+        "series": "Praiseworthy", 
+        "price": 3220, 
+        "currency": "NOK", 
+        "transaction_id": 19301913
+    }, 
+    "300": {
+        "sku": "8E4598", 
+        "category": "Sofa", 
+        "name": "Slick Sofa", 
+        "series": "Slick", 
+        "price": 1859, 
+        "currency": "NOK", 
+        "transaction_id": 19117955
+    }, 
+    "301": {
+        "sku": "B227E0", 
+        "category": "Desk", 
+        "name": "Posh Desk", 
+        "series": "Posh", 
+        "price": 997, 
+        "currency": "NOK", 
+        "transaction_id": 17583290
+    }, 
+    "302": {
+        "sku": "C34303", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 1599, 
+        "currency": "NOK", 
+        "transaction_id": 15628266
+    }, 
+    "303": {
+        "sku": "732A23", 
+        "category": "Table", 
+        "name": "Neat Table", 
+        "series": "Neat", 
+        "price": 37, 
+        "currency": "NOK", 
+        "transaction_id": 15967424
+    }, 
+    "304": {
+        "sku": "798526", 
+        "category": "Recliner", 
+        "name": "Stupendous Recliner", 
+        "series": "Stupendous", 
+        "price": 2334, 
+        "currency": "NOK", 
+        "transaction_id": 18178046
+    }, 
+    "305": {
+        "sku": "F42806", 
+        "category": "Recliner", 
+        "name": "Posh Recliner", 
+        "series": "Posh", 
+        "price": 3534, 
+        "currency": "NOK", 
+        "transaction_id": 15521555
+    }, 
+    "306": {
+        "sku": "D9833C", 
+        "category": "Lamp", 
+        "name": "Stylish Lamp", 
+        "series": "Stylish", 
+        "price": 3040, 
+        "currency": "NOK", 
+        "transaction_id": 17182315
+    }, 
+    "307": {
+        "sku": "C559B2", 
+        "category": "Table", 
+        "name": "Terrific Table", 
+        "series": "Terrific", 
+        "price": 582, 
+        "currency": "NOK", 
+        "transaction_id": 16295833
+    }, 
+    "308": {
+        "sku": "8F7417", 
+        "category": "Chair", 
+        "name": "Tiptop Chair", 
+        "series": "Tiptop", 
+        "price": 4130, 
+        "currency": "NOK", 
+        "transaction_id": 18649798
+    }, 
+    "309": {
+        "sku": "956B1F", 
+        "category": "Table", 
+        "name": "Exquisite Table", 
+        "series": "Exquisite", 
+        "price": 4431, 
+        "currency": "NOK", 
+        "transaction_id": 19766843
+    }, 
+    "310": {
+        "sku": "CB6408", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 4796, 
+        "currency": "NOK", 
+        "transaction_id": 18288476
+    }, 
+    "311": {
+        "sku": "C559B2", 
+        "category": "Table", 
+        "name": "Terrific Table", 
+        "series": "Terrific", 
+        "price": 582, 
+        "currency": "NOK", 
+        "transaction_id": 16295833
+    }, 
+    "312": {
+        "sku": "1F4878", 
+        "category": "Lamp", 
+        "name": "Striking Lamp", 
+        "series": "Striking", 
+        "price": 4920, 
+        "currency": "NOK", 
+        "transaction_id": 18910999
+    }, 
+    "313": {
+        "sku": "855769", 
+        "category": "Lamp", 
+        "name": "Geometric Lamp", 
+        "series": "Geometric", 
+        "price": 4599, 
+        "currency": "NOK", 
+        "transaction_id": 16559744
+    }, 
+    "314": {
+        "sku": "723814", 
+        "category": "Desk", 
+        "name": "Luminous Desk", 
+        "series": "Luminous", 
+        "price": 2618, 
+        "currency": "NOK", 
+        "transaction_id": 19168960
+    }, 
+    "315": {
+        "sku": "C7473A", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4404, 
+        "currency": "NOK", 
+        "transaction_id": 16463700
+    }, 
+    "316": {
+        "sku": "8FD330", 
+        "category": "Sofa", 
+        "name": "Stupendous Sofa", 
+        "series": "Stupendous", 
+        "price": 1306, 
+        "currency": "NOK", 
+        "transaction_id": 18343164
+    }, 
+    "317": {
+        "sku": "1F4878", 
+        "category": "Lamp", 
+        "name": "Striking Lamp", 
+        "series": "Striking", 
+        "price": 4920, 
+        "currency": "NOK", 
+        "transaction_id": 18910999
+    }, 
+    "318": {
+        "sku": "7A5494", 
+        "category": "Chair", 
+        "name": "Ace Chair", 
+        "series": "Ace", 
+        "price": 1493, 
+        "currency": "NOK", 
+        "transaction_id": 18455809
+    }, 
+    "319": {
+        "sku": "F863D2", 
+        "category": "Sofa", 
+        "name": "Ace Sofa", 
+        "series": "Ace", 
+        "price": 3460, 
+        "currency": "NOK", 
+        "transaction_id": 15661025
+    }, 
+    "320": {
+        "sku": "A88029", 
+        "category": "Chair", 
+        "name": "Well-made Chair", 
+        "series": "Well-made", 
+        "price": 98, 
+        "currency": "NOK", 
+        "transaction_id": 17176110
+    }, 
+    "321": {
+        "sku": "3E138C", 
+        "category": "Table", 
+        "name": "Geometric Table", 
+        "series": "Geometric", 
+        "price": 2554, 
+        "currency": "NOK", 
+        "transaction_id": 15021781
+    }, 
+    "322": {
+        "sku": "EBE146", 
+        "category": "Lamp", 
+        "name": "Supreme Lamp", 
+        "series": "Supreme", 
+        "price": 236, 
+        "currency": "NOK", 
+        "transaction_id": 19482273
+    }, 
+    "323": {
+        "sku": "806ECA", 
+        "category": "Table", 
+        "name": "Slick Table", 
+        "series": "Slick", 
+        "price": 337, 
+        "currency": "NOK", 
+        "transaction_id": 15937392
+    }, 
+    "324": {
+        "sku": "F4B98D", 
+        "category": "Recliner", 
+        "name": "Tiptop Recliner", 
+        "series": "Tiptop", 
+        "price": 2456, 
+        "currency": "NOK", 
+        "transaction_id": 19508748
+    }, 
+    "325": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "326": {
+        "sku": "220E86", 
+        "category": "Desk", 
+        "name": "Brilliant Desk", 
+        "series": "Brilliant", 
+        "price": 1891, 
+        "currency": "NOK", 
+        "transaction_id": 18343919
+    }, 
+    "327": {
+        "sku": "2211A7", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 2352, 
+        "currency": "NOK", 
+        "transaction_id": 15728322
+    }, 
+    "328": {
+        "sku": "256CEF", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 4138, 
+        "currency": "NOK", 
+        "transaction_id": 16557337
+    }, 
+    "329": {
+        "sku": "5E473B", 
+        "category": "Recliner", 
+        "name": "Tiptop Recliner", 
+        "series": "Tiptop", 
+        "price": 3443, 
+        "currency": "NOK", 
+        "transaction_id": 15912664
+    }, 
+    "330": {
+        "sku": "723814", 
+        "category": "Desk", 
+        "name": "Luminous Desk", 
+        "series": "Luminous", 
+        "price": 2618, 
+        "currency": "NOK", 
+        "transaction_id": 19168960
+    }, 
+    "331": {
+        "sku": "F863D2", 
+        "category": "Sofa", 
+        "name": "Ace Sofa", 
+        "series": "Ace", 
+        "price": 3460, 
+        "currency": "NOK", 
+        "transaction_id": 15661025
+    }, 
+    "332": {
+        "sku": "E5D9EA", 
+        "category": "Table", 
+        "name": "Finest Table", 
+        "series": "Finest", 
+        "price": 1024, 
+        "currency": "NOK", 
+        "transaction_id": 19121765
+    }, 
+    "333": {
+        "sku": "359BF3", 
+        "category": "Desk", 
+        "name": "Striking Desk", 
+        "series": "Striking", 
+        "price": 1578, 
+        "currency": "NOK", 
+        "transaction_id": 16674262
+    }, 
+    "334": {
+        "sku": "C6841F", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 2853, 
+        "currency": "NOK", 
+        "transaction_id": 18058756
+    }, 
+    "335": {
+        "sku": "CB6408", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 4796, 
+        "currency": "NOK", 
+        "transaction_id": 18288476
+    }, 
+    "336": {
+        "sku": "A88029", 
+        "category": "Chair", 
+        "name": "Well-made Chair", 
+        "series": "Well-made", 
+        "price": 98, 
+        "currency": "NOK", 
+        "transaction_id": 17176110
+    }, 
+    "337": {
+        "sku": "42A840", 
+        "category": "Desk", 
+        "name": "Posh Desk", 
+        "series": "Posh", 
+        "price": 633, 
+        "currency": "NOK", 
+        "transaction_id": 19330355
+    }, 
+    "338": {
+        "sku": "BE81D2", 
+        "category": "Recliner", 
+        "name": "Beautiful Recliner", 
+        "series": "Beautiful", 
+        "price": 4653, 
+        "currency": "NOK", 
+        "transaction_id": 16966966
+    }, 
+    "339": {
+        "sku": "4E9212", 
+        "category": "Lamp", 
+        "name": "Posh Lamp", 
+        "series": "Posh", 
+        "price": 1898, 
+        "currency": "NOK", 
+        "transaction_id": 16657720
+    }, 
+    "340": {
+        "sku": "C26553", 
+        "category": "Recliner", 
+        "name": "Sensational Recliner", 
+        "series": "Sensational", 
+        "price": 3305, 
+        "currency": "NOK", 
+        "transaction_id": 16393646
+    }, 
+    "341": {
+        "sku": "D9833C", 
+        "category": "Lamp", 
+        "name": "Stylish Lamp", 
+        "series": "Stylish", 
+        "price": 3040, 
+        "currency": "NOK", 
+        "transaction_id": 17182315
+    }, 
+    "342": {
+        "sku": "1F4878", 
+        "category": "Lamp", 
+        "name": "Striking Lamp", 
+        "series": "Striking", 
+        "price": 4920, 
+        "currency": "NOK", 
+        "transaction_id": 18910999
+    }, 
+    "343": {
+        "sku": "D26301", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 566, 
+        "currency": "NOK", 
+        "transaction_id": 15908404
+    }, 
+    "344": {
+        "sku": "798526", 
+        "category": "Recliner", 
+        "name": "Stupendous Recliner", 
+        "series": "Stupendous", 
+        "price": 2334, 
+        "currency": "NOK", 
+        "transaction_id": 18178046
+    }, 
+    "345": {
+        "sku": "956B1F", 
+        "category": "Table", 
+        "name": "Exquisite Table", 
+        "series": "Exquisite", 
+        "price": 4431, 
+        "currency": "NOK", 
+        "transaction_id": 19766843
+    }, 
+    "346": {
+        "sku": "59C1B4", 
+        "category": "Lamp", 
+        "name": "Terrific Lamp", 
+        "series": "Terrific", 
+        "price": 1451, 
+        "currency": "NOK", 
+        "transaction_id": 17321941
+    }, 
+    "347": {
+        "sku": "F863D2", 
+        "category": "Sofa", 
+        "name": "Ace Sofa", 
+        "series": "Ace", 
+        "price": 3460, 
+        "currency": "NOK", 
+        "transaction_id": 15661025
+    }, 
+    "348": {
+        "sku": "ABD6FE", 
+        "category": "Chair", 
+        "name": "Supreme Chair", 
+        "series": "Supreme", 
+        "price": 4383, 
+        "currency": "NOK", 
+        "transaction_id": 15372164
+    }, 
+    "349": {
+        "sku": "236471", 
+        "category": "Sofa", 
+        "name": "Exquisite Sofa", 
+        "series": "Exquisite", 
+        "price": 4093, 
+        "currency": "NOK", 
+        "transaction_id": 18441585
+    }, 
+    "350": {
+        "sku": "C26553", 
+        "category": "Recliner", 
+        "name": "Sensational Recliner", 
+        "series": "Sensational", 
+        "price": 3305, 
+        "currency": "NOK", 
+        "transaction_id": 16393646
+    }, 
+    "351": {
+        "sku": "E5D9EA", 
+        "category": "Table", 
+        "name": "Finest Table", 
+        "series": "Finest", 
+        "price": 1024, 
+        "currency": "NOK", 
+        "transaction_id": 19121765
+    }, 
+    "352": {
+        "sku": "C559B2", 
+        "category": "Table", 
+        "name": "Terrific Table", 
+        "series": "Terrific", 
+        "price": 582, 
+        "currency": "NOK", 
+        "transaction_id": 16295833
+    }, 
+    "353": {
+        "sku": "B2AFEB", 
+        "category": "Sofa", 
+        "name": "Neat Sofa", 
+        "series": "Neat", 
+        "price": 4201, 
+        "currency": "NOK", 
+        "transaction_id": 17323392
+    }, 
+    "354": {
+        "sku": "B2AFEB", 
+        "category": "Sofa", 
+        "name": "Neat Sofa", 
+        "series": "Neat", 
+        "price": 4201, 
+        "currency": "NOK", 
+        "transaction_id": 17323392
+    }, 
+    "355": {
+        "sku": "93C2F0", 
+        "category": "Table", 
+        "name": "Supreme Table", 
+        "series": "Supreme", 
+        "price": 4411, 
+        "currency": "NOK", 
+        "transaction_id": 16102896
+    }, 
+    "356": {
+        "sku": "AB331E", 
+        "category": "Table", 
+        "name": "Geometric Table", 
+        "series": "Geometric", 
+        "price": 4622, 
+        "currency": "NOK", 
+        "transaction_id": 18771874
+    }, 
+    "357": {
+        "sku": "EBE146", 
+        "category": "Lamp", 
+        "name": "Supreme Lamp", 
+        "series": "Supreme", 
+        "price": 236, 
+        "currency": "NOK", 
+        "transaction_id": 19482273
+    }, 
+    "358": {
+        "sku": "95761D", 
+        "category": "Sofa", 
+        "name": "Terrific Sofa", 
+        "series": "Terrific", 
+        "price": 4339, 
+        "currency": "NOK", 
+        "transaction_id": 18655067
+    }, 
+    "359": {
+        "sku": "8E4598", 
+        "category": "Sofa", 
+        "name": "Slick Sofa", 
+        "series": "Slick", 
+        "price": 1859, 
+        "currency": "NOK", 
+        "transaction_id": 19117955
+    }, 
+    "360": {
+        "sku": "8A4B5A", 
+        "category": "Chair", 
+        "name": "Praiseworthy Chair", 
+        "series": "Praiseworthy", 
+        "price": 81, 
+        "currency": "NOK", 
+        "transaction_id": 17651109
+    }, 
+    "361": {
+        "sku": "CB6408", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 4796, 
+        "currency": "NOK", 
+        "transaction_id": 18288476
+    }, 
+    "362": {
+        "sku": "D26301", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 566, 
+        "currency": "NOK", 
+        "transaction_id": 15908404
+    }, 
+    "363": {
+        "sku": "D9833C", 
+        "category": "Lamp", 
+        "name": "Stylish Lamp", 
+        "series": "Stylish", 
+        "price": 3040, 
+        "currency": "NOK", 
+        "transaction_id": 17182315
+    }, 
+    "364": {
+        "sku": "C26553", 
+        "category": "Recliner", 
+        "name": "Sensational Recliner", 
+        "series": "Sensational", 
+        "price": 3305, 
+        "currency": "NOK", 
+        "transaction_id": 16393646
+    }, 
+    "365": {
+        "sku": "74F576", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 3676, 
+        "currency": "NOK", 
+        "transaction_id": 18550266
+    }, 
+    "366": {
+        "sku": "C4AB32", 
+        "category": "Table", 
+        "name": "Epic Table", 
+        "series": "Epic", 
+        "price": 3996, 
+        "currency": "NOK", 
+        "transaction_id": 17063879
+    }, 
+    "367": {
+        "sku": "8C98AF", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 2347, 
+        "currency": "NOK", 
+        "transaction_id": 17260353
+    }, 
+    "368": {
+        "sku": "3077F0", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 155, 
+        "currency": "NOK", 
+        "transaction_id": 17031033
+    }, 
+    "369": {
+        "sku": "0947ED", 
+        "category": "Chair", 
+        "name": "Beautiful Chair", 
+        "series": "Beautiful", 
+        "price": 2101, 
+        "currency": "NOK", 
+        "transaction_id": 18566586
+    }, 
+    "370": {
+        "sku": "982AEB", 
+        "category": "Chair", 
+        "name": "Ace Chair", 
+        "series": "Ace", 
+        "price": 2606, 
+        "currency": "NOK", 
+        "transaction_id": 18270047
+    }, 
+    "371": {
+        "sku": "59C1B4", 
+        "category": "Lamp", 
+        "name": "Terrific Lamp", 
+        "series": "Terrific", 
+        "price": 1451, 
+        "currency": "NOK", 
+        "transaction_id": 17321941
+    }, 
+    "372": {
+        "sku": "5E5CF2", 
+        "category": "Desk", 
+        "name": "Well-made Desk", 
+        "series": "Well-made", 
+        "price": 48, 
+        "currency": "NOK", 
+        "transaction_id": 15218604
+    }, 
+    "373": {
+        "sku": "F42806", 
+        "category": "Recliner", 
+        "name": "Posh Recliner", 
+        "series": "Posh", 
+        "price": 3534, 
+        "currency": "NOK", 
+        "transaction_id": 15521555
+    }, 
+    "374": {
+        "sku": "F721BD", 
+        "category": "Sofa", 
+        "name": "Posh Sofa", 
+        "series": "Posh", 
+        "price": 4923, 
+        "currency": "NOK", 
+        "transaction_id": 19279310
+    }, 
+    "375": {
+        "sku": "359BF3", 
+        "category": "Desk", 
+        "name": "Striking Desk", 
+        "series": "Striking", 
+        "price": 1578, 
+        "currency": "NOK", 
+        "transaction_id": 16674262
+    }, 
+    "376": {
+        "sku": "220E86", 
+        "category": "Desk", 
+        "name": "Brilliant Desk", 
+        "series": "Brilliant", 
+        "price": 1891, 
+        "currency": "NOK", 
+        "transaction_id": 18343919
+    }, 
+    "377": {
+        "sku": "626D60", 
+        "category": "Desk", 
+        "name": "Praiseworthy Desk", 
+        "series": "Praiseworthy", 
+        "price": 3190, 
+        "currency": "NOK", 
+        "transaction_id": 17993191
+    }, 
+    "378": {
+        "sku": "F4B98D", 
+        "category": "Recliner", 
+        "name": "Tiptop Recliner", 
+        "series": "Tiptop", 
+        "price": 2456, 
+        "currency": "NOK", 
+        "transaction_id": 19508748
+    }, 
+    "379": {
+        "sku": "93C2F0", 
+        "category": "Table", 
+        "name": "Supreme Table", 
+        "series": "Supreme", 
+        "price": 4411, 
+        "currency": "NOK", 
+        "transaction_id": 16102896
+    }, 
+    "380": {
+        "sku": "C6841F", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 2853, 
+        "currency": "NOK", 
+        "transaction_id": 18058756
+    }, 
+    "381": {
+        "sku": "39F882", 
+        "category": "Chair", 
+        "name": "Terrific Chair", 
+        "series": "Terrific", 
+        "price": 3564, 
+        "currency": "NOK", 
+        "transaction_id": 17194948
+    }, 
+    "382": {
+        "sku": "74F576", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 3676, 
+        "currency": "NOK", 
+        "transaction_id": 18550266
+    }, 
+    "383": {
+        "sku": "6363B4", 
+        "category": "Sofa", 
+        "name": "Neat Sofa", 
+        "series": "Neat", 
+        "price": 275, 
+        "currency": "NOK", 
+        "transaction_id": 18210793
+    }, 
+    "384": {
+        "sku": "3B914E", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 4215, 
+        "currency": "NOK", 
+        "transaction_id": 18058752
+    }, 
+    "385": {
+        "sku": "C6841F", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 2853, 
+        "currency": "NOK", 
+        "transaction_id": 18058756
+    }, 
+    "386": {
+        "sku": "481001", 
+        "category": "Desk", 
+        "name": "Geometric Desk", 
+        "series": "Geometric", 
+        "price": 4362, 
+        "currency": "NOK", 
+        "transaction_id": 18392965
+    }, 
+    "387": {
+        "sku": "F4B98D", 
+        "category": "Recliner", 
+        "name": "Tiptop Recliner", 
+        "series": "Tiptop", 
+        "price": 2456, 
+        "currency": "NOK", 
+        "transaction_id": 19508748
+    }, 
+    "388": {
+        "sku": "A2777D", 
+        "category": "Recliner", 
+        "name": "Praiseworthy Recliner", 
+        "series": "Praiseworthy", 
+        "price": 3220, 
+        "currency": "NOK", 
+        "transaction_id": 19301913
+    }, 
+    "389": {
+        "sku": "ABD6FE", 
+        "category": "Chair", 
+        "name": "Supreme Chair", 
+        "series": "Supreme", 
+        "price": 4383, 
+        "currency": "NOK", 
+        "transaction_id": 15372164
+    }, 
+    "390": {
+        "sku": "E75DFA", 
+        "category": "Sofa", 
+        "name": "Striking Sofa", 
+        "series": "Striking", 
+        "price": 1391, 
+        "currency": "NOK", 
+        "transaction_id": 18109982
+    }, 
+    "391": {
+        "sku": "0F48AE", 
+        "category": "Recliner", 
+        "name": "Stupendous Recliner", 
+        "series": "Stupendous", 
+        "price": 4682, 
+        "currency": "NOK", 
+        "transaction_id": 18616238
+    }, 
+    "392": {
+        "sku": "A88029", 
+        "category": "Chair", 
+        "name": "Well-made Chair", 
+        "series": "Well-made", 
+        "price": 98, 
+        "currency": "NOK", 
+        "transaction_id": 17176110
+    }, 
+    "393": {
+        "sku": "D26301", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 566, 
+        "currency": "NOK", 
+        "transaction_id": 15908404
+    }, 
+    "394": {
+        "sku": "F3ED81", 
+        "category": "Sofa", 
+        "name": "Geometric Sofa", 
+        "series": "Geometric", 
+        "price": 3098, 
+        "currency": "NOK", 
+        "transaction_id": 17681372
+    }, 
+    "395": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "396": {
+        "sku": "6363B4", 
+        "category": "Sofa", 
+        "name": "Neat Sofa", 
+        "series": "Neat", 
+        "price": 275, 
+        "currency": "NOK", 
+        "transaction_id": 18210793
+    }, 
+    "397": {
+        "sku": "C975F9", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1818, 
+        "currency": "NOK", 
+        "transaction_id": 17635183
+    }, 
+    "398": {
+        "sku": "C7473A", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4404, 
+        "currency": "NOK", 
+        "transaction_id": 16463700
+    }, 
+    "399": {
+        "sku": "E5D9EA", 
+        "category": "Table", 
+        "name": "Finest Table", 
+        "series": "Finest", 
+        "price": 1024, 
+        "currency": "NOK", 
+        "transaction_id": 19121765
+    }, 
+    "400": {
+        "sku": "C7473A", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4404, 
+        "currency": "NOK", 
+        "transaction_id": 16463700
+    }, 
+    "401": {
+        "sku": "D9833C", 
+        "category": "Lamp", 
+        "name": "Stylish Lamp", 
+        "series": "Stylish", 
+        "price": 3040, 
+        "currency": "NOK", 
+        "transaction_id": 17182315
+    }, 
+    "402": {
+        "sku": "7A63C8", 
+        "category": "Desk", 
+        "name": "Supreme Desk", 
+        "series": "Supreme", 
+        "price": 2025, 
+        "currency": "NOK", 
+        "transaction_id": 19812311
+    }, 
+    "403": {
+        "sku": "855769", 
+        "category": "Lamp", 
+        "name": "Geometric Lamp", 
+        "series": "Geometric", 
+        "price": 4599, 
+        "currency": "NOK", 
+        "transaction_id": 16559744
+    }, 
+    "404": {
+        "sku": "E86F6E", 
+        "category": "Recliner", 
+        "name": "Striking Recliner", 
+        "series": "Striking", 
+        "price": 3502, 
+        "currency": "NOK", 
+        "transaction_id": 18515959
+    }, 
+    "405": {
+        "sku": "834373", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1700, 
+        "currency": "NOK", 
+        "transaction_id": 19935076
+    }, 
+    "406": {
+        "sku": "EBE146", 
+        "category": "Lamp", 
+        "name": "Supreme Lamp", 
+        "series": "Supreme", 
+        "price": 236, 
+        "currency": "NOK", 
+        "transaction_id": 19482273
+    }, 
+    "407": {
+        "sku": "B542FB", 
+        "category": "Table", 
+        "name": "Luminous Table", 
+        "series": "Luminous", 
+        "price": 2243, 
+        "currency": "NOK", 
+        "transaction_id": 16480541
+    }, 
+    "408": {
+        "sku": "903C9C", 
+        "category": "Desk", 
+        "name": "Striking Desk", 
+        "series": "Striking", 
+        "price": 3327, 
+        "currency": "NOK", 
+        "transaction_id": 17825670
+    }, 
+    "409": {
+        "sku": "723814", 
+        "category": "Desk", 
+        "name": "Luminous Desk", 
+        "series": "Luminous", 
+        "price": 2618, 
+        "currency": "NOK", 
+        "transaction_id": 19168960
+    }, 
+    "410": {
+        "sku": "2211A7", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 2352, 
+        "currency": "NOK", 
+        "transaction_id": 15728322
+    }, 
+    "411": {
+        "sku": "2709CF", 
+        "category": "Recliner", 
+        "name": "Beautiful Recliner", 
+        "series": "Beautiful", 
+        "price": 3857, 
+        "currency": "NOK", 
+        "transaction_id": 17569475
+    }, 
+    "412": {
+        "sku": "3324F5", 
+        "category": "Lamp", 
+        "name": "Stupendous Lamp", 
+        "series": "Stupendous", 
+        "price": 2973, 
+        "currency": "NOK", 
+        "transaction_id": 18224908
+    }, 
+    "413": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "414": {
+        "sku": "2EB931", 
+        "category": "Sofa", 
+        "name": "Epic Sofa", 
+        "series": "Epic", 
+        "price": 3062, 
+        "currency": "NOK", 
+        "transaction_id": 17753898
+    }, 
+    "415": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "416": {
+        "sku": "3E138C", 
+        "category": "Table", 
+        "name": "Geometric Table", 
+        "series": "Geometric", 
+        "price": 2554, 
+        "currency": "NOK", 
+        "transaction_id": 15021781
+    }, 
+    "417": {
+        "sku": "F42806", 
+        "category": "Recliner", 
+        "name": "Posh Recliner", 
+        "series": "Posh", 
+        "price": 3534, 
+        "currency": "NOK", 
+        "transaction_id": 15521555
+    }, 
+    "418": {
+        "sku": "5E473B", 
+        "category": "Recliner", 
+        "name": "Tiptop Recliner", 
+        "series": "Tiptop", 
+        "price": 3443, 
+        "currency": "NOK", 
+        "transaction_id": 15912664
+    }, 
+    "419": {
+        "sku": "E86F6E", 
+        "category": "Recliner", 
+        "name": "Striking Recliner", 
+        "series": "Striking", 
+        "price": 3502, 
+        "currency": "NOK", 
+        "transaction_id": 18515959
+    }, 
+    "420": {
+        "sku": "CB76C2", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 1115, 
+        "currency": "NOK", 
+        "transaction_id": 18841458
+    }, 
+    "421": {
+        "sku": "7A63C8", 
+        "category": "Desk", 
+        "name": "Supreme Desk", 
+        "series": "Supreme", 
+        "price": 2025, 
+        "currency": "NOK", 
+        "transaction_id": 19812311
+    }, 
+    "422": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "423": {
+        "sku": "F863D2", 
+        "category": "Sofa", 
+        "name": "Ace Sofa", 
+        "series": "Ace", 
+        "price": 3460, 
+        "currency": "NOK", 
+        "transaction_id": 15661025
+    }, 
+    "424": {
+        "sku": "AB331E", 
+        "category": "Table", 
+        "name": "Geometric Table", 
+        "series": "Geometric", 
+        "price": 4622, 
+        "currency": "NOK", 
+        "transaction_id": 18771874
+    }, 
+    "425": {
+        "sku": "393E65", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1041, 
+        "currency": "NOK", 
+        "transaction_id": 19138493
+    }, 
+    "426": {
+        "sku": "3077F0", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 155, 
+        "currency": "NOK", 
+        "transaction_id": 17031033
+    }, 
+    "427": {
+        "sku": "804B22", 
+        "category": "Lamp", 
+        "name": "Epic Lamp", 
+        "series": "Epic", 
+        "price": 1773, 
+        "currency": "NOK", 
+        "transaction_id": 16353248
+    }, 
+    "428": {
+        "sku": "3324F5", 
+        "category": "Lamp", 
+        "name": "Stupendous Lamp", 
+        "series": "Stupendous", 
+        "price": 2973, 
+        "currency": "NOK", 
+        "transaction_id": 18224908
+    }, 
+    "429": {
+        "sku": "D490F4", 
+        "category": "Chair", 
+        "name": "Stupendous Chair", 
+        "series": "Stupendous", 
+        "price": 665, 
+        "currency": "NOK", 
+        "transaction_id": 17772305
+    }, 
+    "430": {
+        "sku": "F42806", 
+        "category": "Recliner", 
+        "name": "Posh Recliner", 
+        "series": "Posh", 
+        "price": 3534, 
+        "currency": "NOK", 
+        "transaction_id": 15521555
+    }, 
+    "431": {
+        "sku": "1F4878", 
+        "category": "Lamp", 
+        "name": "Striking Lamp", 
+        "series": "Striking", 
+        "price": 4920, 
+        "currency": "NOK", 
+        "transaction_id": 18910999
+    }, 
+    "432": {
+        "sku": "CB6408", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 4796, 
+        "currency": "NOK", 
+        "transaction_id": 18288476
+    }, 
+    "433": {
+        "sku": "59C1B4", 
+        "category": "Lamp", 
+        "name": "Terrific Lamp", 
+        "series": "Terrific", 
+        "price": 1451, 
+        "currency": "NOK", 
+        "transaction_id": 17321941
+    }, 
+    "434": {
+        "sku": "834373", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1700, 
+        "currency": "NOK", 
+        "transaction_id": 19935076
+    }, 
+    "435": {
+        "sku": "2455DE", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 575, 
+        "currency": "NOK", 
+        "transaction_id": 17647571
+    }, 
+    "436": {
+        "sku": "2EB931", 
+        "category": "Sofa", 
+        "name": "Epic Sofa", 
+        "series": "Epic", 
+        "price": 3062, 
+        "currency": "NOK", 
+        "transaction_id": 17753898
+    }, 
+    "437": {
+        "sku": "F3ED81", 
+        "category": "Sofa", 
+        "name": "Geometric Sofa", 
+        "series": "Geometric", 
+        "price": 3098, 
+        "currency": "NOK", 
+        "transaction_id": 17681372
+    }, 
+    "438": {
+        "sku": "2EB931", 
+        "category": "Sofa", 
+        "name": "Epic Sofa", 
+        "series": "Epic", 
+        "price": 3062, 
+        "currency": "NOK", 
+        "transaction_id": 17753898
+    }, 
+    "439": {
+        "sku": "39F882", 
+        "category": "Chair", 
+        "name": "Terrific Chair", 
+        "series": "Terrific", 
+        "price": 3564, 
+        "currency": "NOK", 
+        "transaction_id": 17194948
+    }, 
+    "440": {
+        "sku": "67657F", 
+        "category": "Sofa", 
+        "name": "Stylish Sofa", 
+        "series": "Stylish", 
+        "price": 784, 
+        "currency": "NOK", 
+        "transaction_id": 19259380
+    }, 
+    "441": {
+        "sku": "CDBE80", 
+        "category": "Recliner", 
+        "name": "Supreme Recliner", 
+        "series": "Supreme", 
+        "price": 583, 
+        "currency": "NOK", 
+        "transaction_id": 19515187
+    }, 
+    "442": {
+        "sku": "3FBDBB", 
+        "category": "Desk", 
+        "name": "Beautiful Desk", 
+        "series": "Beautiful", 
+        "price": 4150, 
+        "currency": "NOK", 
+        "transaction_id": 17141565
+    }, 
+    "443": {
+        "sku": "3077F0", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 155, 
+        "currency": "NOK", 
+        "transaction_id": 17031033
+    }, 
+    "444": {
+        "sku": "8C98AF", 
+        "category": "Sofa", 
+        "name": "Praiseworthy Sofa", 
+        "series": "Praiseworthy", 
+        "price": 2347, 
+        "currency": "NOK", 
+        "transaction_id": 17260353
+    }, 
+    "445": {
+        "sku": "8F7417", 
+        "category": "Chair", 
+        "name": "Tiptop Chair", 
+        "series": "Tiptop", 
+        "price": 4130, 
+        "currency": "NOK", 
+        "transaction_id": 18649798
+    }, 
+    "446": {
+        "sku": "C7473A", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4404, 
+        "currency": "NOK", 
+        "transaction_id": 16463700
+    }, 
+    "447": {
+        "sku": "8E4598", 
+        "category": "Sofa", 
+        "name": "Slick Sofa", 
+        "series": "Slick", 
+        "price": 1859, 
+        "currency": "NOK", 
+        "transaction_id": 19117955
+    }, 
+    "448": {
+        "sku": "D4794D", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4153, 
+        "currency": "NOK", 
+        "transaction_id": 19068894
+    }, 
+    "449": {
+        "sku": "806ECA", 
+        "category": "Table", 
+        "name": "Slick Table", 
+        "series": "Slick", 
+        "price": 337, 
+        "currency": "NOK", 
+        "transaction_id": 15937392
+    }, 
+    "450": {
+        "sku": "95761D", 
+        "category": "Sofa", 
+        "name": "Terrific Sofa", 
+        "series": "Terrific", 
+        "price": 4339, 
+        "currency": "NOK", 
+        "transaction_id": 18655067
+    }, 
+    "451": {
+        "sku": "CB6408", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 4796, 
+        "currency": "NOK", 
+        "transaction_id": 18288476
+    }, 
+    "452": {
+        "sku": "C4AB32", 
+        "category": "Table", 
+        "name": "Epic Table", 
+        "series": "Epic", 
+        "price": 3996, 
+        "currency": "NOK", 
+        "transaction_id": 17063879
+    }, 
+    "453": {
+        "sku": "982AEB", 
+        "category": "Chair", 
+        "name": "Ace Chair", 
+        "series": "Ace", 
+        "price": 2606, 
+        "currency": "NOK", 
+        "transaction_id": 18270047
+    }, 
+    "454": {
+        "sku": "834373", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1700, 
+        "currency": "NOK", 
+        "transaction_id": 19935076
+    }, 
+    "455": {
+        "sku": "834373", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1700, 
+        "currency": "NOK", 
+        "transaction_id": 19935076
+    }, 
+    "456": {
+        "sku": "C975F9", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1818, 
+        "currency": "NOK", 
+        "transaction_id": 17635183
+    }, 
+    "457": {
+        "sku": "806ECA", 
+        "category": "Table", 
+        "name": "Slick Table", 
+        "series": "Slick", 
+        "price": 337, 
+        "currency": "NOK", 
+        "transaction_id": 15937392
+    }, 
+    "458": {
+        "sku": "CB76C2", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 1115, 
+        "currency": "NOK", 
+        "transaction_id": 18841458
+    }, 
+    "459": {
+        "sku": "BA4A1B", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 4285, 
+        "currency": "NOK", 
+        "transaction_id": 16813944
+    }, 
+    "460": {
+        "sku": "3077F0", 
+        "category": "Chair", 
+        "name": "Posh Chair", 
+        "series": "Posh", 
+        "price": 155, 
+        "currency": "NOK", 
+        "transaction_id": 17031033
+    }, 
+    "461": {
+        "sku": "8E4598", 
+        "category": "Sofa", 
+        "name": "Slick Sofa", 
+        "series": "Slick", 
+        "price": 1859, 
+        "currency": "NOK", 
+        "transaction_id": 19117955
+    }, 
+    "462": {
+        "sku": "ABD6FE", 
+        "category": "Chair", 
+        "name": "Supreme Chair", 
+        "series": "Supreme", 
+        "price": 4383, 
+        "currency": "NOK", 
+        "transaction_id": 15372164
+    }, 
+    "463": {
+        "sku": "481001", 
+        "category": "Desk", 
+        "name": "Geometric Desk", 
+        "series": "Geometric", 
+        "price": 4362, 
+        "currency": "NOK", 
+        "transaction_id": 18392965
+    }, 
+    "464": {
+        "sku": "903C9C", 
+        "category": "Desk", 
+        "name": "Striking Desk", 
+        "series": "Striking", 
+        "price": 3327, 
+        "currency": "NOK", 
+        "transaction_id": 17825670
+    }, 
+    "465": {
+        "sku": "8F7417", 
+        "category": "Chair", 
+        "name": "Tiptop Chair", 
+        "series": "Tiptop", 
+        "price": 4130, 
+        "currency": "NOK", 
+        "transaction_id": 18649798
+    }, 
+    "466": {
+        "sku": "2455DE", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 575, 
+        "currency": "NOK", 
+        "transaction_id": 17647571
+    }, 
+    "467": {
+        "sku": "E86F6E", 
+        "category": "Recliner", 
+        "name": "Striking Recliner", 
+        "series": "Striking", 
+        "price": 3502, 
+        "currency": "NOK", 
+        "transaction_id": 18515959
+    }, 
+    "468": {
+        "sku": "C559B2", 
+        "category": "Table", 
+        "name": "Terrific Table", 
+        "series": "Terrific", 
+        "price": 582, 
+        "currency": "NOK", 
+        "transaction_id": 16295833
+    }, 
+    "469": {
+        "sku": "06ADB2", 
+        "category": "Recliner", 
+        "name": "Geometric Recliner", 
+        "series": "Geometric", 
+        "price": 1290, 
+        "currency": "NOK", 
+        "transaction_id": 17014687
+    }, 
+    "470": {
+        "sku": "A85B7D", 
+        "category": "Table", 
+        "name": "Tiptop Table", 
+        "series": "Tiptop", 
+        "price": 1398, 
+        "currency": "NOK", 
+        "transaction_id": 16932817
+    }, 
+    "471": {
+        "sku": "AB331E", 
+        "category": "Table", 
+        "name": "Geometric Table", 
+        "series": "Geometric", 
+        "price": 4622, 
+        "currency": "NOK", 
+        "transaction_id": 18771874
+    }, 
+    "472": {
+        "sku": "7A63C8", 
+        "category": "Desk", 
+        "name": "Supreme Desk", 
+        "series": "Supreme", 
+        "price": 2025, 
+        "currency": "NOK", 
+        "transaction_id": 19812311
+    }, 
+    "473": {
+        "sku": "35EEDC", 
+        "category": "Lamp", 
+        "name": "Ace Lamp", 
+        "series": "Ace", 
+        "price": 2863, 
+        "currency": "NOK", 
+        "transaction_id": 17115126
+    }, 
+    "474": {
+        "sku": "5E5CF2", 
+        "category": "Desk", 
+        "name": "Well-made Desk", 
+        "series": "Well-made", 
+        "price": 48, 
+        "currency": "NOK", 
+        "transaction_id": 15218604
+    }, 
+    "475": {
+        "sku": "0F48AE", 
+        "category": "Recliner", 
+        "name": "Stupendous Recliner", 
+        "series": "Stupendous", 
+        "price": 4682, 
+        "currency": "NOK", 
+        "transaction_id": 18616238
+    }, 
+    "476": {
+        "sku": "D10324", 
+        "category": "Table", 
+        "name": "Supreme Table", 
+        "series": "Supreme", 
+        "price": 3256, 
+        "currency": "NOK", 
+        "transaction_id": 18922483
+    }, 
+    "477": {
+        "sku": "170A47", 
+        "category": "Desk", 
+        "name": "Exquisite Desk", 
+        "series": "Exquisite", 
+        "price": 4253, 
+        "currency": "NOK", 
+        "transaction_id": 16152746
+    }, 
+    "478": {
+        "sku": "393E65", 
+        "category": "Recliner", 
+        "name": "Epic Recliner", 
+        "series": "Epic", 
+        "price": 1041, 
+        "currency": "NOK", 
+        "transaction_id": 19138493
+    }, 
+    "479": {
+        "sku": "39F882", 
+        "category": "Chair", 
+        "name": "Terrific Chair", 
+        "series": "Terrific", 
+        "price": 3564, 
+        "currency": "NOK", 
+        "transaction_id": 17194948
+    }, 
+    "480": {
+        "sku": "35EEDC", 
+        "category": "Lamp", 
+        "name": "Ace Lamp", 
+        "series": "Ace", 
+        "price": 2863, 
+        "currency": "NOK", 
+        "transaction_id": 17115126
+    }, 
+    "481": {
+        "sku": "C4AB32", 
+        "category": "Table", 
+        "name": "Epic Table", 
+        "series": "Epic", 
+        "price": 3996, 
+        "currency": "NOK", 
+        "transaction_id": 17063879
+    }, 
+    "482": {
+        "sku": "67657F", 
+        "category": "Sofa", 
+        "name": "Stylish Sofa", 
+        "series": "Stylish", 
+        "price": 784, 
+        "currency": "NOK", 
+        "transaction_id": 19259380
+    }, 
+    "483": {
+        "sku": "9156D9", 
+        "category": "Recliner", 
+        "name": "Beautiful Recliner", 
+        "series": "Beautiful", 
+        "price": 2983, 
+        "currency": "NOK", 
+        "transaction_id": 19113933
+    }, 
+    "484": {
+        "sku": "8F7417", 
+        "category": "Chair", 
+        "name": "Tiptop Chair", 
+        "series": "Tiptop", 
+        "price": 4130, 
+        "currency": "NOK", 
+        "transaction_id": 18649798
+    }, 
+    "485": {
+        "sku": "A85B7D", 
+        "category": "Table", 
+        "name": "Tiptop Table", 
+        "series": "Tiptop", 
+        "price": 1398, 
+        "currency": "NOK", 
+        "transaction_id": 16932817
+    }, 
+    "486": {
+        "sku": "2455DE", 
+        "category": "Chair", 
+        "name": "Exquisite Chair", 
+        "series": "Exquisite", 
+        "price": 575, 
+        "currency": "NOK", 
+        "transaction_id": 17647571
+    }, 
+    "487": {
+        "sku": "59C1B4", 
+        "category": "Lamp", 
+        "name": "Terrific Lamp", 
+        "series": "Terrific", 
+        "price": 1451, 
+        "currency": "NOK", 
+        "transaction_id": 17321941
+    }, 
+    "488": {
+        "sku": "7A63C8", 
+        "category": "Desk", 
+        "name": "Supreme Desk", 
+        "series": "Supreme", 
+        "price": 2025, 
+        "currency": "NOK", 
+        "transaction_id": 19812311
+    }, 
+    "489": {
+        "sku": "D4794D", 
+        "category": "Table", 
+        "name": "Posh Table", 
+        "series": "Posh", 
+        "price": 4153, 
+        "currency": "NOK", 
+        "transaction_id": 19068894
+    }, 
+    "490": {
+        "sku": "804B22", 
+        "category": "Lamp", 
+        "name": "Epic Lamp", 
+        "series": "Epic", 
+        "price": 1773, 
+        "currency": "NOK", 
+        "transaction_id": 16353248
+    }, 
+    "491": {
+        "sku": "F863D2", 
+        "category": "Sofa", 
+        "name": "Ace Sofa", 
+        "series": "Ace", 
+        "price": 3460, 
+        "currency": "NOK", 
+        "transaction_id": 15661025
+    }, 
+    "492": {
+        "sku": "6363B4", 
+        "category": "Sofa", 
+        "name": "Neat Sofa", 
+        "series": "Neat", 
+        "price": 275, 
+        "currency": "NOK", 
+        "transaction_id": 18210793
+    }, 
+    "493": {
+        "sku": "C34303", 
+        "category": "Table", 
+        "name": "Sensational Table", 
+        "series": "Sensational", 
+        "price": 1599, 
+        "currency": "NOK", 
+        "transaction_id": 15628266
+    }, 
+    "494": {
+        "sku": "D6B4AE", 
+        "category": "Desk", 
+        "name": "Stylish Desk", 
+        "series": "Stylish", 
+        "price": 1439, 
+        "currency": "NOK", 
+        "transaction_id": 16945131
+    }, 
+    "495": {
+        "sku": "220E86", 
+        "category": "Desk", 
+        "name": "Brilliant Desk", 
+        "series": "Brilliant", 
+        "price": 1891, 
+        "currency": "NOK", 
+        "transaction_id": 18343919
+    }, 
+    "496": {
+        "sku": "375061", 
+        "category": "Sofa", 
+        "name": "Luminous Sofa", 
+        "series": "Luminous", 
+        "price": 3043, 
+        "currency": "NOK", 
+        "transaction_id": 19816432
+    }, 
+    "497": {
+        "sku": "67657F", 
+        "category": "Sofa", 
+        "name": "Stylish Sofa", 
+        "series": "Stylish", 
+        "price": 784, 
+        "currency": "NOK", 
+        "transaction_id": 19259380
+    }, 
+    "498": {
+        "sku": "FD06FC", 
+        "category": "Recliner", 
+        "name": "Slick Recliner", 
+        "series": "Slick", 
+        "price": 641, 
+        "currency": "NOK", 
+        "transaction_id": 16017398
+    }, 
+    "499": {
+        "sku": "E86F6E", 
+        "category": "Recliner", 
+        "name": "Striking Recliner", 
+        "series": "Striking", 
+        "price": 3502, 
+        "currency": "NOK", 
+        "transaction_id": 18515959
+    }, 
+    "500": {
+        "sku": "798526", 
+        "category": "Recliner", 
+        "name": "Stupendous Recliner", 
+        "series": "Stupendous", 
+        "price": 2334, 
+        "currency": "NOK", 
+        "transaction_id": 18178046
+    }, 
+    "501": {
+        "sku": 0, 
+        "category": 0, 
+        "name": 0, 
+        "series": 0, 
+        "price": "appelsin", 
+        "currency": 0, 
+        "transaction_id": "banan"
+    }
+}
