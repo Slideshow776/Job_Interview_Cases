@@ -21,4 +21,10 @@
     * self-balancing binary search trees keep their elements in order. Thus, traversing its elements follows a least-to-greatest pattern, whereas traversing a hash table can result in elements being in seemingly random order. However, hash tables have a much better average-case time complexity than self-balancing binary search trees of O(1), and their worst-case performance is highly unlikely when a good hash function is used.
   * Disadvantages: 
     * A self-balancing binary search tree can be used to implement the buckets for a hash table that uses separate chaining. This allows for average-case constant lookup, but assures a worst-case performance of O(log n). However, this introduces extra complexity into the implementation, and may cause even worse performance for smaller hash tables, where the time spent inserting into and balancing the tree is greater than the time needed to perform a linear search on all of the elements of a linked list or similar data structure.
-* List of objects
+* Associative array
+  * Advantages
+    * Indexed by keys, which can be any immutable type
+    * A simpler data structure that takes up less space
+  * Disadvantages
+    * Hard to lookup
+    * Works best with sequential data
