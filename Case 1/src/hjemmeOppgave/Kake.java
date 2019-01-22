@@ -1,40 +1,23 @@
-/*
- * Skrevet av Sandra Moen 8 februar 2018
- * 
- * 
- */
-
-
-
 package hjemmeOppgave;
 
-import java.util.Calendar;
-import java.util.Date;
+import java.time.LocalDateTime;
 
 public class Kake {
-	
-	String kakeType;
-	Calendar calendar;
-	Date bestillt, levert;
-	Long kundeId;
-	// enum kaketyper {Kransekaker, Sjokoladekaker, Bløtkaker};
-	
-	public Kake(String kakeType, int time, int minutt, int sekund) {
-		this.kakeType = kakeType;
-		
-		// type = kaketyper.Bløtkaker;
-		
-		calendar = Calendar.getInstance();
-		calendar.set(Calendar.HOUR_OF_DAY, time);
-		calendar.set(Calendar.MINUTE, minutt);
-		calendar.set(Calendar.SECOND, sekund);
+    private Kunde kunde;
+    private KakeType kaketype;
+    private LocalDateTime tidBestillt;
+    private LocalDateTime tidLevert;
 
-		bestillt = calendar.getTime();
-	}
-	
-	public void setKundeId(Long id) { kundeId = id; }
-	
-	public String getType() { return kakeType; }
-	public Long getKundeId() { return kundeId; }
-	public Date getBestilltTidspunkt() { return bestillt; }
+    public Kake(Kunde kunde, KakeType kakeType, LocalDateTime tidBestillt) {
+        this.kunde = kunde;
+        this.kaketype = kakeType;
+        this.tidBestillt = tidBestillt;
+    }
+
+    public Kunde getKunde() { return kunde; }
+    public KakeType getKakeType() { return kaketype; }
+    public LocalDateTime getTidBestillt() { return tidBestillt; }
+    public LocalDateTime getTidLevert() { return tidLevert; }
+
+    public void setTidLevert(LocalDateTime ldt) { tidLevert = ldt; }
 }
