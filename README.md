@@ -1,3 +1,6 @@
-# Job_Interview_Cases
-Cases required to be solved for different job interviews.
+# Job Interview Cases
+This is a collection of job interview cases with solutions solved by me.
+
+All cases have been anonymized.
+
 ###### Language: Some English, some Norwegian
