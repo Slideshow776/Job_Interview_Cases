@@ -40,3 +40,10 @@ Når det oppstår problemer i systemet, f.eks. hvis det forsøkes å legge ut en
 
 
 *Lykke til!*
+
+---
+
+### Andregangsintervjuet
+
+Andregangsintervjuet handlet om å programmere det kjente spillet "Battleships".
+Vedlagt i mappen "Slagskip" er det jeg rakk å gjøre på ca. 1-2 timer.
