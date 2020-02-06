@@ -15,4 +15,4 @@ npm run serve
 npm run build
 ```
 ## Image
-![capture](https://user-images.githubusercontent.com/4059636/53267200-0c19bc00-36e3-11e9-97f4-a5001c99adf2.PNG)
+![image](https://user-images.githubusercontent.com/4059636/73946973-0ff41d80-48f7-11ea-85bb-25e0a7bc5f04.png)
