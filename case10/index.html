@@ -1,0 +1,203 @@
+<!-- View -->
+<!doctype html>
+
+<h1>Status Meeting Standup</h1>
+<button class="tablink" id="participantsTab"
+  onclick="openPage('Home', this, 'rgb(241, 253, 255)')">Participants</button>
+<button class="tablink" onclick="openPage('News', this, 'rgb(241, 253, 255)')" id="defaultOpen">Chat</button>
+
+<div id="Home" class="tabcontent">
+  <div id="participants"></div>
+</div>
+
+<div id="News" class="tabcontent">
+  <div id="messages"></div>
+
+  <form name="publish">
+    <input id="textLine" type="text" name="message" maxlength="50" />
+    <input type="submit" value="Send" />
+  </form>
+</div>
+
+<!-- Controller -->
+<script>
+  /* ------------ Tab functions ------------ */
+  {
+    function openPage(pageName, elmnt, color) {
+      // Hide all elements with class="tabcontent" by default */
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+
+      // Remove the background color of all tablinks/buttons
+      tablinks = document.getElementsByClassName("tablink");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].style.backgroundColor = "";
+      }
+
+      // Show the specific tab content
+      document.getElementById(pageName).style.display = "block";
+
+      // Add the specific color to the button used to open the tab content
+      elmnt.style.backgroundColor = color;
+    }
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+  }
+  /* ------------ Chat functions ------------ */
+  {
+    let url = location.host == 'localhost' ?
+      'ws://localhost:8080/ws' : location.host == 'javascript.local' ?
+        `ws://javascript.local/article/websocket/chat/ws` :
+        `wss://javascript.info/article/websocket/chat/ws`;
+
+    let socket = new WebSocket(url);
+
+    var ID = function () {
+      // Math.random should be unique because of its seeding algorithm.
+      // Convert it to base 36 (numbers + letters), and grab the first 9 characters
+      // after the decimal.
+      return '_' + Math.random().toString(36).substr(2, 9);
+    };
+
+    let id = ID();
+    let participants = [];
+    console.log("Your given id is: " + id);
+    socket.onopen = () => socket.send("ID-" + id);
+
+    socket.onclose = event => {
+      console.log(`Closed ${event.code}`);
+      socket.send("REMOVE-" + id);
+    }
+
+    // send message from the form
+    document.forms.publish.onsubmit = function () {
+      let message = this.message.value;
+      socket.send("MESSAGE-" + id + "@" + ID() + ": " + message);
+      return false;
+    };
+
+    // handle incoming messages
+    socket.onmessage = function (event) {
+      let incomingMessage = event.data;
+      let command = incomingMessage.substring(0, incomingMessage.indexOf("-"));
+      let message = incomingMessage.substring(incomingMessage.indexOf("-") + 1, incomingMessage.length);
+
+      if (command == "ID")
+        addParticipant(message)
+      else if (command === "MESSAGE")
+        showMessage(message);
+      else if (command === "REMOVE")
+        removeParticipant(message);
+      else if (command === "EDIT")
+        editMessage(message)
+    };
+
+    function editMessage(message) {
+      let participantID = message.substring(0, message.indexOf("@"));
+      let messageID = message.substring(message.indexOf("@") + 1, message.indexOf(" ") - 1);
+      let rawMessage = participantID + ": (EDITED)" + message.substring(message.indexOf(" "), message.length);
+
+      var list = Array.from(document.getElementById("messages").childNodes);
+      for (i = 0; i < list.length; i++) {
+        if (list[i].id == messageID)
+          list[i].innerHTML = rawMessage;
+      }
+    }
+
+    function removeParticipant(message) {
+      participants.pop(message);
+      var list = document.getElementById("participants");
+      for (i = 0; i < list.length; i++) {
+        if (list[i].id == message)
+          list.removeChild(list.childNodes[i]);
+      }
+    }
+
+    function addParticipant(message) {
+      if (participants.includes(message) === false) {
+        participants.push(message);
+        let participantsElem = document.createElement('div');
+        participantsElem.setAttribute("id", message);
+        participantsElem.textContent = message;
+        participantsElem.style['border-bottom'] = "1px solid lightgray";
+        participantsElem.style['padding-bottom'] = "10px";
+        document.getElementById('participants').prepend(participantsElem);
+        socket.send("ID-" + id); // let the others know who you are in return
+        document.getElementById('participantsTab').innerHTML = "Participants (" + participants.length + ")";
+      }
+    }
+
+    function showMessage(message) {
+      let participantID = message.substring(0, message.indexOf("@"));
+      let messageID = message.substring(message.indexOf("@") + 1, message.indexOf(" ") - 1);
+      let rawMessage = participantID + ": " + message.substring(message.indexOf(" "), message.length);
+
+      let messageElem = document.createElement('div');
+      messageElem.textContent = rawMessage;
+      messageElem.setAttribute("id", messageID);
+      messageElem.setAttribute("class", id);
+      messageElem.onclick = function () {
+        if (id == participantID)
+          socket.send("EDIT-" + participantID + "@" + messageID + ": " + document.getElementById("textLine").value);
+      };
+      document.getElementById('messages').prepend(messageElem);
+    }
+  }
+</script>
+
+<style>
+  /* Set height of body and the document to 100% to enable "full page tabs" */
+  body,
+  html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial;
+    background-color: rgb(212, 212, 212);
+  }
+
+  h1 {
+    background-color: rgb(212, 212, 212);
+    text-align: center;
+  }
+
+  /* Style tab links */
+  .tablink {
+    background-color: rgb(212, 212, 212);
+    color: black;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 50%;
+  }
+
+  .tablink:hover {
+    background-color: #777;
+  }
+
+  /* Style the tab content (and add height:100% for full page content) */
+  .tabcontent {
+    color: black;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+  }
+
+  #Home {
+    background-color: rgb(241, 253, 255);
+  }
+
+  #News {
+    background-color: rgb(241, 253, 255);
+  }
+
+  form {
+    margin-top: 10px;
+  }
+</style>
