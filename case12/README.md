@@ -1,7 +1,9 @@
+# Case 12
+
 1. [Introductory Task](#introductory-task)
 2. [Main Task](#main-task)
 
-# Introductory Task:
+## Introductory Task:
 *Find the longest word in `words` whose letters are in alphabetic order.*
 
 For example:
@@ -9,7 +11,7 @@ For example:
 * "for" is an alpha word -- "f" is before "o" is before "r"
 * "while" is *not* an alpha word -- "w" is after "h"
 
-# My solution:
+### My solution:
 ```
 function findLongestAlphaWord(words) {
   console.log("Words: ", words);
@@ -30,7 +32,7 @@ function findLongestAlphaWord(words) {
 }
 ```
 
-# Main Task
+## Main Task
 Build a basic Weather app. Aim to spend no more than two hours on this.
 
 The WeatherApp contains two screens:
@@ -42,7 +44,7 @@ The loading screen is the first screen that is shown when the app is being opene
 
 You can use [OpenWeatherMap](https://home.openweathermap.org/users/sign_up) to obtain weather information.
 
-## Weather Screen
+### Weather Screen
 
 This screen should show the weather forecast for Oslo.
 Example request: `https://api.openweathermap.org/data/2.5/forecast?q={city name}&appid={API key}`
@@ -55,6 +57,6 @@ This screen should contain:
 * Below the arrows, a maximum of 3 weather cards should be visible. Each card should display the weather forecast for that day and the average temperature
 * Bellow the weather cards, the hourly forecast should be shown for the selected day. You should show the hour, weather, min and max temperatures.
 
-## Non-goals
+### Non-goals
 * Unit tests
 * Responsive Interface
