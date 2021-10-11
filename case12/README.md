@@ -35,6 +35,8 @@ function findLongestAlphaWord(words) {
 ## Main Task
 Build a basic Weather app. Aim to spend no more than two hours on this.
 
+![image](https://user-images.githubusercontent.com/4059636/136766569-89cfb8ba-9c9d-4f0b-8878-e57857ecdd45.png)
+
 The WeatherApp contains two screens:
 1. Loading screen
 2. Weather info screen
