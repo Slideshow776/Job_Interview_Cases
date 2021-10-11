@@ -1,3 +1,6 @@
+The main task is the weather app.
+![image](https://user-images.githubusercontent.com/4059636/136766569-89cfb8ba-9c9d-4f0b-8878-e57857ecdd45.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
