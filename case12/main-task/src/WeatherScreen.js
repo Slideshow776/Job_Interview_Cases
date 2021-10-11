@@ -6,7 +6,7 @@ import React, { useState } from "react";
 function WeatherScreen() {
     const history = UseHistory();
     
-    // let openweathermapData = history.location.state.data;
+    let openweathermapData = history.location.state.data;
     let dummyData = [
         {"dt":1633780800,"main":{"temp":13.95,"feels_like":13.1,"temp_min":13.95,"temp_max":14.24,"pressure":1015,"sea_level":1015,"grnd_level":1026,"humidity":65,"temp_kf":-0.29},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"clouds":{"all":100},"wind":{"speed":3.42,"deg":192,"gust":7.24},"visibility":10000,"pop":0,"sys":{"pod":"d"},"dt_txt":"2021-10-09 12:00:00"},
         {"dt":1633791600,"main":{"temp":14.14,"feels_like":13.57,"temp_min":14.14,"temp_max":14.31,"pressure":1021,"sea_level":1021,"grnd_level":1024,"humidity":75,"temp_kf":-0.17},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"clouds":{"all":87},"wind":{"speed":4.16,"deg":192,"gust":8.45},"visibility":10000,"pop":0,"sys":{"pod":"d"},"dt_txt":"2021-10-09 15:00:00"},
@@ -17,7 +17,7 @@ function WeatherScreen() {
         {"dt":1634191200,"main":{"temp":3.78,"feels_like":3.78,"temp_min":3.78,"temp_max":3.78,"pressure":1017,"sea_level":1017,"grnd_level":1013,"humidity":93,"temp_kf":0},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"clouds":{"all":95},"wind":{"speed":0.8,"deg":248,"gust":0.78},"visibility":10000,"pop":0,"sys":{"pod":"d"},"dt_txt":"2021-10-14 06:00:00"},
         {"dt":1634202000,"main":{"temp":7.48,"feels_like":7.48,"temp_min":7.48,"temp_max":7.48,"pressure":1015,"sea_level":1015,"grnd_level":1011,"humidity":73,"temp_kf":0},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"clouds":{"all":77},"wind":{"speed":1.28,"deg":213,"gust":2.26},"visibility":10000,"pop":0,"sys":{"pod":"d"},"dt_txt":"2021-10-14 09:00:00"}];
     // console.log("dummyData: ", dummyData);
-    let weatherData = dummyData // change this to either use real or dummy data.
+    let weatherData = openweathermapData // change this to either use real or dummy data.
 
     function weatherCardData(weatherData) {
         var cards = [];
