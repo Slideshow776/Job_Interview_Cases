@@ -1,7 +1,7 @@
 # case14
 
-* [Project setup](#project-setup)
 * [Case-beskrivelse](#case-beskrivelse)
+* [Project setup](#project-setup)
 
 ## Case-beskrivelse:
 * Lag en responsiv side basert på skissen. Bruk HTML semantikk som best egner seg for universell utforming.
